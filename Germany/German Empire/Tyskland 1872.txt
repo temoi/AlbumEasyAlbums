@@ -5,7 +5,7 @@ ALBUM_PAGES_MARGINS     (10.0 10.0 10.0 10.0)
 ALBUM_PAGES_BORDER      (0.5 0.1 1.0)
 #ALBUM_PAGES_BORDER3 (0.1 0.5 0.1 1.0) 
 ALBUM_PAGES_SPACING     (6.0 6.0)
-ALBUM_PAGES_TITLE       (HN 24 "Tyske Riket")
+ALBUM_PAGES_TITLE       (HN 24 "Det tyske riket")
 ALBUM_AUTHOR            ("Morten Isaksen")
 STAMP_BOXES_SIZE_ADJUST (2)
 ALBUM_STAMP_IMG_SETTING (10 10 false)
@@ -900,5 +900,245 @@ STAMP_HEADING (HN 7 "Immanuel Kant" )
 
 STAMP_ADD (21.5 26 "25 Pfg." "blå" "no 405" "" "" "")
 STAMP_HEADING (HN 7 "Wolfgang von Goethe" )
+
+PAGE_TEXT_CENTRE (HN 11 "1928 Friedrich Ebert")
+ROW_START_FS (HN 6 0.1 6)
+STAMP_ADD (21.5 26 "3 Pfg." "gulbrun" "no 406" "" "" "")
+STAMP_ADD (21.5 26 "8 Pfg." "mørkegrønn" "no 407" "" "" "")
+STAMP_ADD (21.5 26 "10 Pfg." "rødoransje" "no 408" "" "" "")
+ROW_START_FS (HN 6 0.1 6)
+STAMP_ADD (21.5 26 "20 Pfg." "blågrønn" "no 409" "" "" "")
+STAMP_ADD (21.5 26 "30 Pfg." "oliven" "no 410" "" "" "")
+STAMP_ADD (21.5 26 "45 Pfg." "oransje" "no 411" "" "" "")
+STAMP_ADD (21.5 26 "60 Pfg." "rødbrun" "no 412" "" "" "")
+
+PAGE_TEXT_CENTRE (HN 11 "1928 Paul von Hindenburg")
+ROW_START_FS (HN 6 0.1 6)
+STAMP_ADD (21.5 26 "5 Pfg." "grønn" "no 413" "" "" "")
+STAMP_ADD (21.5 26 "15 Pfg." "karmin" "no 414" "" "" "")
+STAMP_ADD (21.5 26 "25 Pfg." "blå" "no 415" "" "" "")
+STAMP_ADD (21.5 26 "40 Pfg." "fiolett" "no 416" "" "" "")
+STAMP_ADD (21.5 26 "50 Pfg." "brun" "no 417" "" "" "")
+STAMP_ADD (21.5 26 "80 Pfg." "mørkebrun" "no 418" "" "" "")
+
+PAGE_TEXT_CENTRE (HN 11 "1928 Airships - Zeppelin")
+ROW_START_FS (HN 6 0.1 6)
+STAMP_ADD (36 26 "2 RM." "blå" "no 419" "" "" "")
+STAMP_ADD (36 26 "4 RM." "rødbrun" "no 420" "" "" "")
+
+# }
+
+PAGE_START # { 1928
+PAGE_TEXT_CENTRE (HN 11 "1928 Charity Stamps")
+ROW_START_FS (HN 6 0.1 6)
+
+PAGE_TEXT_CENTRE (HN 8 "Stående vannmerke")
+ROW_START_FS (HN 6 0.1 6)
+STAMP_ADD (21.5 26 "5+5 Pfg." "mangefarget" "no 421" "" "" "")
+STAMP_ADD (21.5 26 "8+7 Pfg." "mangefarget" "no 422" "" "" "")
+STAMP_ADD (21.5 26 "10+10 Pfg." "mangefarget" "no 423" "" "" "")
+STAMP_ADD (21.5 26 "25+25 Pfg." "mangefarget" "no 424" "" "" "")
+STAMP_ADD (21.5 26 "50+50 Pfg." "mangefarget" "no 425" "" "" "")
+
+PAGE_TEXT_CENTRE (HN 8 "Liggende vannmerke")
+ROW_START_FS (HN 6 0.1 6)
+STAMP_ADD (21.5 26 "5+5 Pfg." "mangefarget" "no 421A" "" "" "")
+STAMP_ADD (21.5 26 "8+7 Pfg." "mangefarget" "no 422A" "" "" "")
+STAMP_ADD (21.5 26 "10+10 Pfg." "mangefarget" "no 423A" "" "" "")
+STAMP_ADD (21.5 26 "25+25 Pfg." "mangefarget" "no 424A" "" "" "")
+STAMP_ADD (21.5 26 "50+50 Pfg." "mangefarget" "no 425A" "" "" "")
+
+PAGE_TEXT_CENTRE (HN 11 "1928 Charity Stamps")
+ROW_START_FS (HN 6 0.1 6)
+STAMP_ADD (21.5 26 "5+2 Pfg." "mangefarget" "no 426" "" "" "")
+STAMP_ADD (21.5 26 "8+4 Pfg." "mangefarget" "no 427" "" "" "")
+STAMP_ADD (21.5 26 "10+5 Pfg." "mangefarget" "no 428" "" "" "")
+STAMP_ADD (21.5 26 "25+10 Pfg." "mangefarget" "no 429" "" "" "")
+STAMP_ADD (21.5 26 "50+40 Pfg." "mangefarget" "no 430" "" "" "")
+PAGE_COLUMN_START
+
+PAGE_TEXT_CENTRE (HN 11 "1930 Friedrich Ebert - New Colors")
+ROW_START_FS (HN 6 0.1 6)
+STAMP_ADD (21.5 26 "10 Pfg." "lilla" "no 431" "" "" "")
+STAMP_ADD (21.5 26 "20 Pfg." "grå" "no 432" "" "" "")
+PAGE_COLUMN_NEXT
+
+PAGE_TEXT_CENTRE (HN 11 "1930 Paul von Hindenburg - New Color")
+ROW_START_FS (HN 6 0.1 6)
+STAMP_ADD (21.5 26 "80 Pfg." "guloransje" "no 433" "" "" "")
+PAGE_COLUMN_STOP
+PAGE_TEXT_CENTRE (HN 11 "")
+PAGE_COLUMN_START
+
+PAGE_TEXT_CENTRE (HN 11 "\n1930 Zeppelin - The South American Route")
+ROW_START_FS (HN 6 0.1 6)
+STAMP_ADD (36 26 "2 RM." "marineblå" "no 434" "" "" "")
+STAMP_ADD (36 26 "4 RM." "brunsort" "no 435" "" "" "")
+PAGE_COLUMN_NEXT
+
+PAGE_TEXT_CENTRE (HN 11 "1930 Landscape Stamp of 1924\nwith Currency in Reichsmark")
+ROW_START_FS (HN 6 0.1 6)
+STAMP_ADD (36 26 "2 RM." "blå" "no 436" "" "" "")
+PAGE_COLUMN_STOP
+
+# }
+
+PAGE_START # { 1930
+
+PAGE_TEXT_CENTRE (HN 11 "1930 Stamp Exhibition "IPOSTA" in Berlin - Charity Stamps")
+ROW_START_FS (HN 6 0.1 6)
+STAMP_ADD (104 148 "4 Stamps" "" "no 439-442" "" "" "")
+PAGE_TEXT_CENTRE (HN 11 "")
+ROW_START_FS (HN 6 0.1 6)
+STAMP_ADD (26 21.5 "8+(4) Pfg." "grønn" "no 439" "vm 4" "" "")
+STAMP_ADD (26 21.5 "15+(5) Pfg." "karmin" "no 440" "" "" "")
+ROW_START_FS (HN 6 0.1 6)
+#STAMP_ADD (26 21.5 "25+(10) Pfg." "blå" "no 441" "" "" "")
+STAMP_ADD_IMG (26 21.5 "stamps\441.jpg" "" "" "")
+STAMP_ADD (26 21.5 "50+(40) Pfg." "brun" "no 442" "" "" "")
+# }
+
+PAGE_START # { 1930
+PAGE_TEXT_CENTRE (HN 11 "1930 No. 407 & 414 Overprinted \"30 Juni 1930\"")
+ROW_START_FS (HN 6 0.1 6)
+STAMP_ADD (21.5 26 "8 Pfg." "mørkegrønn" "no 437" "" "" "")
+STAMP_HEADING (HN 7 "Friedrich Ebert" )
+STAMP_ADD (21.5 26 "15 Pfg." "karmin" "no 438" "" "" "")
+STAMP_HEADING (HN 7 "Paul von Hindenburg" )
+
+PAGE_TEXT_CENTRE (HN 11 "1930 As Previous Edition but Different Watermark - Charity Stamps")
+ROW_START_FS (HN 6 0.1 6)
+#STAMP_ADD (26 21.5 "8+(4) Pfg." "grønn" "no 443" "VM 2" "" "")
+STAMP_ADD_IMG (26 21.5 "stamps\443.jpg" "vm 2" "" "")
+STAMP_ADD (26 21.5 "15+(5) Pfg." "karmin" "no 444" "" "" "")
+STAMP_ADD (26 21.5 "25+(10) Pfg." "blå" "no 445" "" "" "")
+STAMP_ADD (26 21.5 "50+(40) Pfg." "brun" "no 446" "" "" "")
+PAGE_COLUMN_START
+
+PAGE_TEXT_CENTRE (HN 11 "1931 Paul von Hindenburg")
+ROW_START_FS (HN 6 0.1 6)
+STAMP_ADD (21.5 26 "4 Pfg." "lyseblå" "no 447" "" "" "")
+PAGE_COLUMN_NEXT
+
+PAGE_TEXT_CENTRE (HN 11 "1931 Zeppelin - New Value")
+ROW_START_FS (HN 6 0.1 6)
+STAMP_ADD (36 26  "4 Pfg." "lyseblå" "no 447" "" "" "")
+PAGE_COLUMN_STOP
+
+PAGE_TEXT_CENTRE (HN 11 "1931 Graf Zeppelin's North Pole Flying - Overprinted \"POLAR - FAHRT - 1931\"")
+ROW_START_FS (HN 6 0.1 6)
+STAMP_ADD (36 26  "1 Mk." "karmin" "no 449" "" "" "")
+STAMP_ADD (36 26  "2 Mk." "marineblå" "no 450" "" "" "")
+STAMP_ADD (36 26  "4 Mk." "brunsort" "no 451" "" "" "")
+
+PAGE_TEXT_CENTRE (HN 11 "1931 Charity Stamps - Buildings")
+ROW_START_FS (HN 6 0.1 6)
+STAMP_ADD (21.5 26  "8+4 Pfg." "grønn" "no 452" "" "" "")
+STAMP_ADD (21.5 26  "15+5 Pfg." "karmin" "no 453" "" "" "")
+STAMP_ADD (26 21.5 "25+10 Pfg." "blå" "no 454" "" "" "")
+STAMP_ADD (21.5 26  "50+40 Pfg." "brun" "no 455" "" "" "")
+# }
+
+PAGE_START # { 1930
+
+PAGE_COLUMN_START
+ROW_START_FS (HN 6 0.1 6)
+PAGE_TEXT_CENTRE (HN 11 "1932 Buildings Stamps of 1931 Surcharged")
+ROW_START_FS (HN 6 0.1 6)
+STAMP_ADD (21.5 26  "6/8+4 Pfg." "grønn" "no 456" "" "" "")
+STAMP_ADD (21.5 26  "12/15+3 Pfg." "karmin" "no 457" "" "" "")
+PAGE_COLUMN_NEXT
+
+PAGE_TEXT_CENTRE (HN 11 "1932 New values")
+ROW_START_FS (HN 6 0.1 6)
+STAMP_ADD (21.5 26  "6 Pfg." "olivengrønn" "no 458" "" "Friedrich Ebert" "")
+STAMP_ADD (21.5 26  "12 Pfg." "oransje" "no 459" "" "Paul von Hindenburg" "")
+PAGE_COLUMN_STOP
+
+PAGE_TEXT_CENTRE (HN 11 "1932-33 Paul von Hindenburg - New Drawing")
+ROW_START_FS (HN 6 0.1 6)
+STAMP_ADD (21.5 26  "3 Pfg." "brun" "no 472" "" "" "")
+STAMP_ADD (21.5 26  "4 Pfg." "lyseblå" "no 460" "" "" "")
+STAMP_ADD (21.5 26  "4 Pfg." "grønnaktig blå" "no 473" "" "" "")
+STAMP_ADD (21.5 26  "5 Pfg." "grønn" "no 461" "" "" "")
+STAMP_ADD (21.5 26  "6 Pfg." "mørkegrønn" "no 474" "" "" "")
+STAMP_ADD (21.5 26  "8 Pfg." "oransje" "no 475" "" "" "")
+ROW_START_FS (HN 6 0.1 6)
+STAMP_ADD (21.5 26  "10 Pfg." "mørkebrun" "no 476" "" "" "")
+STAMP_ADD (21.5 26  "12 Pfg." "rødoransje" "no 462" "" "" "")
+STAMP_ADD (21.5 26  "12 Pfg." "karmin" "no 477" "" "" "")
+STAMP_ADD (21.5 26  "15 Pfg." "karmin" "no 463" "" "" "")
+
+STAMP_ADD (21.5 26  "15 Pfg." "brunlilla" "no 478" "" "" "")
+ROW_START_FS (HN 6 0.1 6)
+STAMP_ADD (21.5 26  "20 Pfg." "lyseblå" "no 479" "" "" "")
+STAMP_ADD (21.5 26  "25 Pfg." "blå" "no 464" "" "" "")
+STAMP_ADD (21.5 26  "30 Pfg." "oliven" "no 480" "" "" "")
+STAMP_ADD (21.5 26  "40 Pfg." "fiolett" "no 465" "" "" "")
+
+STAMP_ADD (21.5 26  "40 Pfg." "oliven" "no 481" "" "" "")
+ROW_START_FS (HN 6 0.1 6)
+STAMP_ADD (21.5 26  "50 Pfg." "fiolett" "no 466" "" "" "")
+STAMP_ADD (21.5 26  "50 Pfg." "grønn/sort" "no 482" "" "" "")
+
+STAMP_ADD (21.5 26  "60 Pfg." "fiolett/sort" "no 483" "" "" "")
+STAMP_ADD (21.5 26  "80 Pfg." "blå/sort" "no 484" "" "" "")
+STAMP_ADD (21.5 26  "80 Pfg." "gul/sort" "no 485" "" "" "")
+
+PAGE_TEXT_CENTRE (HN 11 "1932 Charity Stamps")
+ROW_START_FS (HN 6 0.1 6)
+STAMP_ADD (26 21.5 "4+2 Pfg." "lyseblå" "no 467" "" "" "")
+STAMP_ADD (26 21.5 "6+4 Pfg." "oliven" "no 468" "" "" "")
+STAMP_ADD (26 21.5 "12+3 Pfg." "rødoransje" "no 469" "" "" "")
+STAMP_ADD (26 21.5 "25+10 Pfg." "blå" "no 470" "" "" "")
+STAMP_ADD (26 21.5 "40+40 Pfg." "lilla" "no 471" "" "" "")
+# }
+
+PAGE_START # { 1933
+
+PAGE_TEXT_CENTRE (HN 11 "1933 Frederick the Great")
+ROW_START_FS (HN 6 0.1 6)
+STAMP_ADD (26 21.5 "6 Pfg." "grønn" "no 486" "" "" "")
+STAMP_ADD (26 21.5 "12 Pfg." "karmin" "no 487" "" "" "")
+STAMP_ADD (26 21.5 "25 Pfg." "marineblå" "no 488" "" "" "")
+
+PAGE_TEXT_CENTRE (HN 11 "1933 Zeppelin - The Chicago Route \nOverprinted \"Chicagofahrt - Weltausstellung - 1933\"")
+ROW_START_FS (HN 6 0.1 6)
+STAMP_ADD (36 26 "1 Mk." "karminrød" "no 489" "" "" "")
+STAMP_ADD (36 26 "2 Mk." "marineblå" "no 490" "" "" "")
+STAMP_ADD (36 26 "4 Mk." "brun" "no 491" "" "" "")
+
+PAGE_TEXT_CENTRE (HN 11 "1933 Wagner - Charity Stamps")
+ROW_START_FS (HN 6 0.1 6)
+STAMP_ADD (30 25 "3+2 Pfg." "brun" "no 492" "" "" "")
+STAMP_ADD (30 25 "4+2 Pfg." "mørkeblå" "no 493" "" "" "")
+STAMP_ADD (30 25 "5+2 Pfg." "grønn" "no 494" "" "" "")
+ROW_START_FS (HN 6 0.1 6)
+STAMP_ADD (30 25 "6+4 Pfg." "mørkegrønn" "no 495" "" "" "")
+
+STAMP_ADD (30 25 "8+4 Pfg." "oransje" "no 496" "" "" "")
+STAMP_ADD (30 25 "12+3 Pfg." "karmin" "no 497" "" "" "")
+ROW_START_FS (HN 6 0.1 6)
+STAMP_ADD (30 25 "20+10 Pfg." "lyseblå" "no 498" "" "" "")
+STAMP_ADD (30 25 "25+15 Pfg." "mørkeblå" "no 499" "" "" "")
+STAMP_ADD (30 25 "40+35 Pfg." "lilla" "no 500" "" "" "")
+
+PAGE_TEXT_CENTRE (HN 11 "1933 Charity Minisheet. No.349-352 Overprinted "1923-1933"")
+ROW_START_FS (HN 6 0.1 6)
+STAMP_ADD (26 36 "5+15 Pfg." "grønn" "no 501" "" "" "")
+STAMP_ADD (26 36 "10+30 Pfg." "rød" "no 502" "" "" "")
+STAMP_ADD (26 36 "20+60 Pfg." "blå" "no 503" "" "" "")
+STAMP_ADD (26 36 "50+150 Pfg." "brun" "no 504" "" "" "")
+# }
+
+PAGE_START # { 1933
+
+PAGE_TEXT_CENTRE (HN 11 "1933 Charity Minisheet. No.349-352 Overprinted "1923-1933"")
+ROW_START_FS (HN 6 0.1 6)
+STAMP_ADD (148 209 "4 stamps" "lilla" "no 501 - 504" "" "" "")
+
+# }
+
+PAGE_START # { 1933
 
 # }
