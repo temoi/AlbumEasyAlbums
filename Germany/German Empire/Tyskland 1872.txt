@@ -5,7 +5,7 @@ ALBUM_PAGES_MARGINS     (10.0 10.0 10.0 10.0)
 ALBUM_PAGES_BORDER      (0.5 0.1 1.0)
 #ALBUM_PAGES_BORDER3 (0.1 0.5 0.1 1.0) 
 ALBUM_PAGES_SPACING     (6.0 6.0)
-ALBUM_PAGES_TITLE       (HN 24 "Det tyske riket")
+ALBUM_PAGES_TITLE       (HN 16 "Det tyske riket")
 ALBUM_AUTHOR            ("Morten Isaksen")
 STAMP_BOXES_SIZE_ADJUST (2)
 ALBUM_STAMP_IMG_SETTING (10 10 false)
@@ -15,7 +15,7 @@ row_align_bottom
 #}
 
 PAGE_START # { 1872
-PAGE_TEXT_CENTRE (HN 11 "1872 Imperial Eagle with Small Breastshield")
+PAGE_TEXT_CENTRE (HN 10 "1872 Imperial Eagle with Small Breastshield")
 #PAGE_TEXT_CENTRE (HN 8 "1. January VM: Ingen Perforering: 13½ x 14½")
 ROW_START_FS (HN 6 0.1 6)
 #STAMP_ADD (21 24 "¼ Gr.\n\nfiolett" "" "no 1" "")
@@ -36,7 +36,7 @@ STAMP_ADD (21 24 "18 Kr." "gråbrun" "" "" "no 11" "")
 
 PAGE_COLUMN_START 
 
-PAGE_TEXT_CENTRE (hn 11 "\n\n1872 New Daily Stamps")
+PAGE_TEXT_CENTRE (HN 10 "\n\n1872 New Daily Stamps")
 #PAGE_TEXT_CENTRE (HN 8 "1. January VM: Ingen Perforering: 13½ x 14¼")
 ROW_START_FS (hn 6 0.1 6)
 STAMP_ADD (24 21 "10 Kr." "grå" "" "" "no 12" "")
@@ -45,14 +45,14 @@ STAMP_ADD_IMG (24 21 "stamps\13.jpg" "" "no 13" "")
 
 PAGE_COLUMN_NEXT
 
-PAGE_TEXT_CENTRE (hn 11 "1872 Imperial Eagle with\nSmall Breastshield - New Colors")
+PAGE_TEXT_CENTRE (HN 10 "1872 Imperial Eagle with\nSmall Breastshield - New Colors")
 #PAGE_TEXT_CENTRE (HN 8 "1. April VM: Ingen Perforering: 13½ x 14¼")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (21 24 "½ Gr." "oransje" "" "" "no 14" "")
 #STAMP_ADD (21 24 "2 Kr." "guloransje" "" "" "no 15" "")
 STAMP_ADD_IMG (21 24 "stamps\14.jpg" "" "no 15" "")
 PAGE_COLUMN_STOP 
-PAGE_TEXT_CENTRE (hn 11 "1872 Eagle with Large Breastshield")
+PAGE_TEXT_CENTRE (HN 10 "1872 Eagle with Large Breastshield")
 #PAGE_TEXT_CENTRE (HN 8 "1. June VM: Ingen   Arkstørrelse: 150   Perforering: 13½ x 14¼")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (21 24 "¼ Gr." "fiolett" "" "" "no 16" "")
@@ -82,13 +82,13 @@ PAGE_START # { 1874
 
 PAGE_COLUMN_START
 
-PAGE_TEXT_CENTRE (HN 11 "1874 Stamps of 1872 Overprinted")
+PAGE_TEXT_CENTRE (HN 10 "1874 Stamps of 1872 Overprinted")
 ROW_START_FS (HN 6 0.1 6)
 #STAMP_ADD (21 24 "2½/2½ Gr." "rødbrun" "(no 21)" "" "no 29" "")
 STAMP_ADD_IMG (21 24 "Stamps\29.jpg" "" "no 29" "")
 STAMP_ADD (21 24 "9/9 Gr." "rødbrun" "(no 27)" "" "no 30" "")
 PAGE_COLUMN_NEXT
-PAGE_TEXT_CENTRE (HN 11 "1877 No.36 in New Colour - Value in "PFENNIGE"")
+PAGE_TEXT_CENTRE (HN 10 "1877 No.36 in New Colour - Value in "PFENNIGE"")
 ROW_START_FS (HN 6 0.1 6)
 #STAMP_ADD (21 24 "50 Pfge." "olivengrønn" "" "" "no 38" "")
 STAMP_ADD_IMG (21 24 "Stamps\38.jpg" "" "no 38" "")
@@ -97,7 +97,7 @@ STAMP_ADD (21 24 "50 Pfge." "mørkegrønn" "" "" "no 38a" "")
 PAGE_COLUMN_STOP
 
 
-PAGE_TEXT_CENTRE (HN 11 "1875 New Daily Stamps - Value in "PFENNIGE"")
+PAGE_TEXT_CENTRE (HN 10 "1875 New Daily Stamps - Value in "PFENNIGE"")
 ROW_START_FS (HN 6 0.1 6)
 #STAMP_ADD (21 24 "3 Pfge." "blågrønn" "" "" "no 31" "")
 STAMP_ADD_IMG (21 24 "Stamps\31.jpg" "" "no 31" "")
@@ -113,7 +113,7 @@ STAMP_ADD (21 24 "25 Pfge." "gulbrun" "" "" "no 35a" "")
 STAMP_ADD (21 24 "50 Pfge." "grå" "" "" "no 36" "")
 STAMP_ADD (21 24 "50 Pfge." "gråsort" "" "" "no 36a" "")
 
-PAGE_TEXT_CENTRE (HN 11 "1875 -1900 Ekstra Value")
+PAGE_TEXT_CENTRE (HN 10 "1875 -1900 Ekstra Value")
 ROW_START_FS (HN 6 0.1 6)
 #STAMP_ADD (24 21 "2Mk." "mørk lilla" "(1875-1880)" "" "no 37" "")
 STAMP_ADD_IMG (24 21 "Stamps\37.jpg" "" "no 37" "")
@@ -124,7 +124,7 @@ STAMP_ADD (24 21 "2Mk." "lillafiolett" "(1889-1890)" "" "no 37c" "")
 STAMP_ADD (24 21 "2Mk." "brunlilla" "(1890-1899)" "" "no 37d" "")
 STAMP_ADD (24 21 "2Mk." "karminlilla" "(1899-1900)" "" "no 37e" "")
 
-PAGE_TEXT_CENTRE (HN 11 "1879 -1880 New Daily Stamps - Value in "PFENNIG"")
+PAGE_TEXT_CENTRE (HN 10 "1879 -1880 New Daily Stamps - Value in "PFENNIG"")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (21 24 "3 Pfge." "grønn" "" "" "no 39" "")
 #STAMP_ADD (21 24 "5 Pfge." "fiolett" "" "" "no 40" "")
@@ -144,7 +144,7 @@ ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD_BLANK (50 10 )
 
 
-PAGE_TEXT_CENTRE (HN 11 "1889 -1900 Value Stamp & Imperial Eagle")
+PAGE_TEXT_CENTRE (HN 10 "1889 -1900 Value Stamp & Imperial Eagle")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (21 24 "2 Pfge." "grå" "" "" "no 45" "")
 STAMP_ADD (21 24 "3 Pfge." "gråbrun" "" "" "no 46" "")
@@ -165,7 +165,7 @@ STAMP_ADD (21 24 "50 Pfge." "brunlilla" "" "" "no 51" "")
 STAMP_ADD (21 24 "50 Pfge." "brunrosa" "" "" "no 51a" "")
 STAMP_ADD (21 24 "50 Pfge." "rødbrun" "" "" "no 51b" "")
 
-PAGE_TEXT_CENTRE (HN 11 "1900 Germania - Inscription "REICHSPOST"")
+PAGE_TEXT_CENTRE (HN 10 "1900 Germania - Inscription "REICHSPOST"")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (21 24 "2 Pfge." "grå" "" "" "no 52" "")
 STAMP_ADD (21 24 "3 Pfge." "brun" "" "" "no 53" "")
@@ -183,7 +183,7 @@ STAMP_ADD (21 24 "80 Pfge." "karmin/sort" "" "" "no 61" "")
 #}
 
 PAGE_START # { 1900
-PAGE_TEXT_CENTRE (HN 11 "1900 Inscription "Reichspost"")
+PAGE_TEXT_CENTRE (HN 10 "1900 Inscription "Reichspost"")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (38 26 "1 Mk." "rød" "" "" "no 62" "")
 STAMP_ADD (38 26 "1 Mk." "brunrød" "" "" "no 62a" "")
@@ -192,11 +192,11 @@ STAMP_ADD (38 26 "2 Mk." "mørkeblå" "" "" "no 63" "")
 STAMP_ADD (38 26 "3 Mk." "mørk fiolett" "" "" "no 64" "")
 STAMP_ADD (38 26 "5 Mk." "sort/rød" "" "" "no 65" "")
 
-PAGE_TEXT_CENTRE (HN 11 "1901 Vineta")
+PAGE_TEXT_CENTRE (HN 10 "1901 Vineta")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (14 24 "3/5 Pfg." "grønn" "1/2 no 54)" "" "no 66" "")
 
-PAGE_TEXT_CENTRE (HN 11 "1902 Germania - Inscription \"DEUTSCHES REICH\"")
+PAGE_TEXT_CENTRE (HN 10 "1902 Germania - Inscription \"DEUTSCHES REICH\"")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (21.5 26 "2 Pfg." "grå" "" "" "no 67" "")
 STAMP_ADD (21.5 26 "3 Pfg." "brun" "" "" "no 68" "")
@@ -211,7 +211,7 @@ STAMP_ADD (21.5 26 "40 Pfg." "fiolett/sort" "" "" "no 75" "")
 STAMP_ADD (21.5 26 "40 Pfg." "karmin/sort" "" "" "no 76" "")
 #}
 PAGE_START # { 1902
-PAGE_TEXT_CENTRE (HN 11 "1902 Local Motifs - Inscription \"DEUTSCHES REICH\"")
+PAGE_TEXT_CENTRE (HN 10 "1902 Local Motifs - Inscription \"DEUTSCHES REICH\"")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (38 26 "1 Mk." "karminrød" "" "" "no 77" "")
 STAMP_ADD (38 26 "1 Mk." "karminrød" "Perf:14" "" "no 77a" "")
@@ -225,7 +225,7 @@ STAMP_ADD (38 26 "3 Mk." "mørk fiolett" "Perf:14" "" "no 79a" "")
 STAMP_ADD (38 26 "5 Mk." "sort/rød" "" "" "no 80" "")
 STAMP_ADD (38 26 "5 Mk." "sort/rød" "Perf:14" "" "no 80a" "")
 
-PAGE_TEXT_CENTRE (HN 11 "1905 -1911 Germania & Local Motifs - As Stamps of 1902 but Watermarked")
+PAGE_TEXT_CENTRE (HN 10 "1905 -1911 Germania & Local Motifs - As Stamps of 1902 but Watermarked")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (21.5 26 "2 Pfg." "mørk grå" "" "" "no 81" "")
 STAMP_ADD (21.5 26 "3 Pfg." "brun" "" "" "no 82" "")
@@ -248,7 +248,7 @@ STAMP_ADD (38 26 "5 Mk." "sort/rød" "" "" "no 95" "")
 #}
 
 PAGE_START # { 1916
-PAGE_TEXT_CENTRE (HN 11 "1916 -1918 As Type O but Unhatched background")
+PAGE_TEXT_CENTRE (HN 10 "1916 -1918 As Type O but Unhatched background")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (21.5 26 "2 Pfg." "gulgrå" "" "" "no 96" "")
 STAMP_ADD (21.5 26 "2½ Pfg." "grå" "" "" "no 97" "")
@@ -260,19 +260,19 @@ STAMP_ADD (21.5 26 "15 Pfg." "gulbrun" "" "" "no 100" "")
 STAMP_ADD (21.5 26 "35 Pfg." "rødbrun" "" "" "no 101" "")
 STAMP_ADD (21.5 26 "75 Pfg." "grønn/sort" "" "" "no 102" "")
 
-PAGE_TEXT_CENTRE (HN 11 "1919 War Invalids Charity Stamp")
+PAGE_TEXT_CENTRE (HN 10 "1919 War Invalids Charity Stamp")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (21.5 26 "10+5 Pfg." "karminrød" "" "" "no 103" "")
 STAMP_ADD (21.5 26 "15+5 Pfg." "gråfiolett" "" "" "no 104" "")
 
-PAGE_TEXT_CENTRE (HN 11 "1919 Weimar National Congress")
+PAGE_TEXT_CENTRE (HN 10 "1919 Weimar National Congress")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (25 31 "10 Pfg." "rødrosa" "" "" "no 105" "")
 STAMP_ADD (25 31 "15 Pfg." "brun/blå" "" "" "no 106" "")
 STAMP_ADD (25 31 "25 Pfg." "grønn/rød" "" "" "no 107" "")
 STAMP_ADD (25 31 "30 Pfg." "lilla/karmin" "" "" "no 108" "")
 
-PAGE_TEXT_CENTRE (HN 11 "1919 Airmail")
+PAGE_TEXT_CENTRE (HN 10 "1919 Airmail")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (37 26 "10 Pfg." "oransje" "" "" "no 109" "")
 STAMP_ADD (37 26 "10 Pfg." "brunoransje" "" "" "no 109a" "")
@@ -282,7 +282,7 @@ STAMP_ADD (37 26 "40 Pfg." "blågrønn" "" "" "no 110a" "")
 
 PAGE_START # { 1920
 
-PAGE_TEXT_CENTRE (HN 11 "1920 New Daily Stamps - Offset Printing")
+PAGE_TEXT_CENTRE (HN 10 "1920 New Daily Stamps - Offset Printing")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (38 26 "1 Mk." "rød" "" "" "no 111" "")
 STAMP_ADD (38 26 "1.25 Mk." "grønn" "" "" "no 112" "")
@@ -292,7 +292,7 @@ STAMP_ADD (38 26 "1.50 Mk." "rødbrun" "" "" "no 113a" "")
 STAMP_ADD (38 26 "2.50 Mk." "rødlilla" "" "" "no 114" "")
 STAMP_ADD (38 26 "2.50 Mk." "mørk lilla" "" "" "no 114" "")
 
-PAGE_TEXT_CENTRE (HN 11 "1920 Postage Stamps from Bayern Overprinted \"Deutsches Reich\"")
+PAGE_TEXT_CENTRE (HN 10 "1920 Postage Stamps from Bayern Overprinted \"Deutsches Reich\"")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (21.5 26 "5 Pfg." "grønn" "" "" "no 115" "")
 STAMP_ADD (21.5 26 "10 Pfg." "oransje" "" "" "no 116" "")
@@ -306,7 +306,7 @@ STAMP_ADD (21.5 26 "60 Pfg." "blågrønn" "" "" "no 122" "")
 STAMP_ADD (21.5 26 "75 Pfg." "rødlilla" "" "" "no 123" "")
 STAMP_ADD (21.5 26 "80 Pfg." "mørkeblå" "" "" "no 124" "")
 
-PAGE_TEXT_CENTRE (HN 11 "1920 Bayern Stamps Overprinted \"Deutsches Reich\"")
+PAGE_TEXT_CENTRE (HN 10 "1920 Bayern Stamps Overprinted \"Deutsches Reich\"")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (24 29 "1 Mk." "rød/grå" "" "" "no 125" "")
 STAMP_ADD (24 29 "1¼ Mk." "marineblå/gul" "" "" "no 126" "")
@@ -319,7 +319,7 @@ STAMP_ADD (24 29 "2½ Mk." "sort/brun" "Stoneprint" "" "no 129a" "")
 
 PAGE_START # { 1920
 
-PAGE_TEXT_CENTRE (HN 11 "1920 Bayern Stamps Overprinted \"Deutsches Reich\"")
+PAGE_TEXT_CENTRE (HN 10 "1920 Bayern Stamps Overprinted \"Deutsches Reich\"")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (34 40 "3 Mk." "lyseblå" "" "" "no 130" "")
 STAMP_ADD (34 40 "4 Mk." "brunrød" "" "" "no 131" "")
@@ -328,14 +328,14 @@ STAMP_ADD (34 40 "5 Mk." "oransje" "" "" "no 132" "")
 STAMP_ADD (34 40 "10 Mk." "mørkegrønn" "" "" "no 133" "")
 STAMP_ADD (34 40 "20 Mk." "sort" "" "" "no 134" "")
 
-PAGE_TEXT_CENTRE (HN 11 "1920 Stamps of 1905-1911 Overprinted and in New Colors")
+PAGE_TEXT_CENTRE (HN 10 "1920 Stamps of 1905-1911 Overprinted and in New Colors")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (38 26 "1.25/1 Mk." "grønn" "" "" "no 135" "")
 STAMP_ADD (38 26 "1.50/1 Mk." "brun" "" "" "no 136" "")
 STAMP_ADD (38 26 "2.50/2 Mk." "lilla rødrosa" "" "" "no 137" "")
 STAMP_ADD (38 26 "2.50/2 Mk." "brunlilla" "" "" "no 137a" "")
 
-PAGE_TEXT_CENTRE (HN 11 "1920 New Colors")
+PAGE_TEXT_CENTRE (HN 10 "1920 New Colors")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (21.5 26 "5 Pfg." "brun" "" "" "no 138" "")
 STAMP_ADD (21.5 26 "5 Pfg." "mørkebrun" "" "" "no 138a" "")
@@ -354,7 +354,7 @@ STAMP_ADD (21.5 26 "80 Pfg." "blå" "" "" "no 147" "")
 
 PAGE_START # { 1920
 
-PAGE_TEXT_CENTRE (HN 11 "1920 New Colors")
+PAGE_TEXT_CENTRE (HN 10 "1920 New Colors")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (21.5 26 "80 Pfg." "blek marineblå" "" "" "no 147a" "")
 STAMP_ADD (21.5 26 "1 Mk." "fiolett/grønn" "" "" "no 148" "")
@@ -362,14 +362,14 @@ STAMP_ADD (21.5 26 "1¼ Mk." "rød/lilla" "" "" "no 149" "")
 STAMP_ADD (21.5 26 "2 Mk." "rød/blå" "" "" "no 150" "")
 STAMP_ADD (21.5 26 "4 Mk." "sort/karmin" "" "" "no 151" "")
 
-PAGE_TEXT_CENTRE (HN 11 "1921 Germania Surcharged")
+PAGE_TEXT_CENTRE (HN 10 "1921 Germania Surcharged")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (21.5 26 "1.60/5 Mk./Pfg." "brun" "no 138" "" "no 152" "")
 STAMP_ADD (21.5 26 "3/1¼ Mk." "rød/lilla" "no 149" "" "no 153" "")
 STAMP_ADD (21.5 26 "5/75 Mk./Pfg." "fiolett" "no 146" "" "no 154" "")
 STAMP_ADD (21.5 26 "10/75 Mk./Pfg." "fiolett" "no 146" "" "no 155" "")
 
-PAGE_TEXT_CENTRE (HN 11 "1921 New Daily Stamp")
+PAGE_TEXT_CENTRE (HN 10 "1921 New Daily Stamp")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (21.5 26 "5 Pfg." "rødlilla" "" "" "no 156" "")
 STAMP_ADD (21.5 26 "10 Pfg." "oliven" "" "" "no 157" "")
@@ -394,7 +394,7 @@ STAMP_ADD (21.5 26 "4 Mk." "grønn/lysegrønn" "" "" "no 171" "")
 
 PAGE_START # { 1921
 
-PAGE_TEXT_CENTRE (HN 11 "1921 New Daily Stamp")
+PAGE_TEXT_CENTRE (HN 10 "1921 New Daily Stamp")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (36 26 "5 Mk." "oransje" "" "" "no 172" "")
 STAMP_ADD (36 26 "5 Mk." "brunoransje" "" "" "no 172a" "")
@@ -403,7 +403,7 @@ ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (36 26 "10 Mk." "karmin" "" "" "no 173" "")
 STAMP_ADD (36 26 "20 Mk." "mørkeblå/grønn" "" "" "no 174" "")
 
-PAGE_TEXT_CENTRE (HN 11 "1922 As 1921 Edition but Watermarked 2")
+PAGE_TEXT_CENTRE (HN 10 "1922 As 1921 Edition but Watermarked 2")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (21.5 26 "5 Pfg." "rødlilla" "" "" "no 175" "")
 STAMP_ADD (21.5 26 "10 Pfg." "oliven" "" "" "no 176" "")
@@ -433,7 +433,7 @@ STAMP_ADD (36 26 "20 Mk." "mørkeblå/grønn" "" "" "no 194" "")
 #}
 
 PAGE_START # { 1922
-PAGE_TEXT_CENTRE (HN 11 "1922 New Daily Stamp")
+PAGE_TEXT_CENTRE (HN 10 "1922 New Daily Stamp")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (21.5 26 "5 Mk." "oransje" "" "" "no 195" "")
 STAMP_ADD (21.5 26 "20 Mk." "lilla" "" "" "no 196" "")
@@ -441,13 +441,13 @@ STAMP_ADD (21.5 26 "30 Mk." "mørk oliven" "" "" "no 197" "")
 STAMP_ADD (21.5 26 "30 Mk." "sort oliven" "" "" "no 197a" "")
 STAMP_ADD (21.5 26 "50 Mk." "blågrønn" "" "" "no 198" "")
 
-PAGE_TEXT_CENTRE (HN 11 "1922 New values")
+PAGE_TEXT_CENTRE (HN 10 "1922 New values")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (21.5 26 "75 Pfg." "karminlilla" "" "" "no 199" "")
 STAMP_ADD (21.5 26 "75 Pfg." "lilla rødrosa" "" "" "no 199a" "")
 STAMP_ADD (21.5 26 "1.25 Pfg." "rød/lilla" "" "" "no 200" "")
 
-PAGE_TEXT_CENTRE (HN 11 "1922 Industrial Exhibition in Munich")
+PAGE_TEXT_CENTRE (HN 10 "1922 Industrial Exhibition in Munich")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (25 31 "1.25 Mk." "rødlilla" "" "" "no 201" "")
 STAMP_ADD (25 31 "1.25 Mk." "lilla rødlilla" "" "" "no 201a" "")
@@ -461,7 +461,7 @@ STAMP_ADD (25 31 "10 Mk." "brunlilla" "Vm 2" "" "no 205a" "")
 STAMP_ADD (25 31 "20 Mk." "rødlilla" "Vm 2" "" "no 206" "")
 STAMP_ADD (25 31 "20 Mk." "rød" "Vm 2" "" "no 206a" "")
 
-PAGE_TEXT_CENTRE (HN 11 "1922 Coachhorn")
+PAGE_TEXT_CENTRE (HN 10 "1922 Coachhorn")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (21.5 26 "5 Mk." "oransje/gul" "" "" "no 207" "")
 STAMP_ADD (21.5 26 "10 Mk." "karmin/rødrosa" "" "" "no 208" "")
@@ -473,7 +473,7 @@ STAMP_ADD (21.5 26 "50 Mk." "mørkeblå/lilla" "Vm 3" "" "no 211a" "")
 
 PAGE_START # { 1922
 
-PAGE_TEXT_CENTRE (HN 11 "1922-23 Airmail")
+PAGE_TEXT_CENTRE (HN 10 "1922-23 Airmail")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (21.5 26 "25 Pfg." "brun" "" "" "no 212" "")
 STAMP_ADD (21.5 26 "40 Pfg." "oransje" "" "" "no 213" "")
@@ -490,7 +490,7 @@ STAMP_ADD (23 31 "10 Mk." "lilla/rødrosa" "" "" "no 221" "")
 STAMP_ADD (23 31 "25 Mk." "brun/gul" "" "" "no 222" "")
 STAMP_ADD (23 31 "100 Mk." "oliven/rødoransje" "" "" "no 223" "")
 
-PAGE_TEXT_CENTRE (HN 11 "1922 New Values")
+PAGE_TEXT_CENTRE (HN 10 "1922 New Values")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (37 26 "100 Mk." "lilla" "" "" "no 224" "")
 STAMP_ADD (37 26 "200 Mk." "rød" "" "" "no 225" "")
@@ -502,7 +502,7 @@ STAMP_ADD (37 26 "500 Mk." "oransje" "" "" "no 228" "")
 #}
 
 PAGE_START # { 1922
-PAGE_TEXT_CENTRE (HN 11 "1922 New Values")
+PAGE_TEXT_CENTRE (HN 10 "1922 New Values")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (37 26 "50 Mk." "blå" "" "" "no 229" "")
 STAMP_ADD (37 26 "50 Mk." "blåsort" "" "" "no 229a" "")
@@ -523,7 +523,7 @@ STAMP_ADD (37 26 "4000 Mk." "fiolett" "" "" "no 238" "")
 STAMP_ADD (37 26 "5000 Mk." "grønn" "" "" "no 239" "")
 STAMP_ADD (37 26 "10000 Mk." "rød" "" "" "no 240" "")
 
-PAGE_TEXT_CENTRE (HN 11 "1922 -1923 Coachhorn")
+PAGE_TEXT_CENTRE (HN 10 "1922 -1923 Coachhorn")
 ROW_START_FS (HN 6 0.1 6)
 #STAMP_ADD (21.5 26 "2 Mk." "blåfiolett" "" "" "no 241" "")
 STAMP_ADD_IMG (21.5 26 "stamps\241.jpg" "" "no 241" "")
@@ -542,7 +542,7 @@ STAMP_ADD (21.5 26 "40 Mk." "grønn" "" "" "no 249" "")
 
 PAGE_START # { 1922
 
-PAGE_TEXT_CENTRE (HN 11 "1922 New Values")
+PAGE_TEXT_CENTRE (HN 10 "1922 New Values")
 ROW_START_FS (HN 6 0.1 6)
 #STAMP_ADD (21.5 26 "10 Mk." "blågrønn" "" "" "no 250" "")
 STAMP_ADD_IMG (21.5 26 "stamps\250.jpg" "" "no 250" "")
@@ -552,7 +552,7 @@ STAMP_ADD (21.5 26 "40 Mk." "grønn" "" "" "no 253" "")
 
 PAGE_COLUMN_START
 
-PAGE_TEXT_CENTRE (HN 11 "1922 Charity Stamps")
+PAGE_TEXT_CENTRE (HN 10 "1922 Charity Stamps")
 ROW_START_FS (HN 6 0.1 6)
 #STAMP_ADD (26 44 "6+4 Mk." "blå/brun" "" "" "no 254" "")
 STAMP_ADD_IMG (26 44 "\stamps\254.jpg" "" "no 254" "")
@@ -560,7 +560,7 @@ STAMP_ADD_IMG (26 44 "\stamps\254.jpg" "" "no 254" "")
 STAMP_ADD (26 44 "12+8 Mk." "rød/blå" "" "" "no 255" "")
 PAGE_COLUMN_NEXT
 
-PAGE_TEXT_CENTRE (HN 11 "1922 Charity Stamps")
+PAGE_TEXT_CENTRE (HN 10 "1922 Charity Stamps")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (21.5 26 "5+100 Mk." "oransje" "No 195" "" "no 256" "")
 STAMP_ADD (21.5 26 "25+500 Mk." "oransje" "No 252" "" "no 257" "")
@@ -568,7 +568,7 @@ ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (36 26 "20+1000 Mk." "oransje" "No 174" "" "no 258" "")
 PAGE_COLUMN_STOP
 
-PAGE_TEXT_CENTRE (HN 11 "1923 New Daily Stamp")
+PAGE_TEXT_CENTRE (HN 10 "1923 New Daily Stamp")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (21.5 26 "100 Mk." "lilla" "" "" "no 259" "")
 STAMP_ADD (21.5 26 "200 Mk." "karmin" "" "" "no 260" "")
@@ -578,7 +578,7 @@ STAMP_ADD (21.5 26 "500 Mk." "rødoransje" "" "" "no 263" "")
 STAMP_ADD (21.5 26 "1000 Mk." "grå" "" "" "no 264" "")
 
 
-PAGE_TEXT_CENTRE (HN 11 "\n\n1923 Kölner Cathedral")
+PAGE_TEXT_CENTRE (HN 10 "\n\n1923 Kölner Cathedral")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (36 26 "5000 Mk." "blå¨" "" "" "no 265" "")
 STAMP_ADD (36 26 "10000 Mk." "olivenbrun¨" "" "" "no 266" "")
@@ -586,7 +586,7 @@ STAMP_ADD (36 26 "10000 Mk." "olivenbrun¨" "" "" "no 266" "")
 
 PAGE_START # { 1923
 
-PAGE_TEXT_CENTRE (HN 11 "1923 Airmail")
+PAGE_TEXT_CENTRE (HN 10 "1923 Airmail")
 ROW_START_FS (HN 6 0.1 6)
 #STAMP_ADD (25 31 "5 Mk." "rødoransje¨" "" "" "no 267" "")
 STAMP_ADD_IMG (25 31 "stamps\267.jpg" "" "no 267" "")
@@ -596,7 +596,7 @@ STAMP_ADD (25 31 "100 Mk." "mørk oliven" "" "" "no 270" "")
 STAMP_ADD (25 31 "200 Mk." "blå" "" "" "no 271" "")
 
 
-PAGE_TEXT_CENTRE (HN 11 "1923 New Daily Stamp")
+PAGE_TEXT_CENTRE (HN 10 "1923 New Daily Stamp")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (21.5 26 "5000 Mk." "grønnaktig blå" "" "" "no 272" "")
 STAMP_ADD (21.5 26 "50000 Mk." "brungul" "" "" "no 273" "")
@@ -604,7 +604,7 @@ STAMP_ADD (21.5 26 "50000 Mk." "lysbrun" "" "" "no 273a" "")
 #STAMP_ADD (21.5 26 "75000 Mk." "fiolett" "" "" "no 274" "")
 STAMP_ADD_IMG (21.5 26 "stamps\274.jpg" "" "no 274" "")
 
-PAGE_TEXT_CENTRE (HN 11 "1923 Overprinted Stamps")
+PAGE_TEXT_CENTRE (HN 10 "1923 Overprinted Stamps")
 ROW_START_FS (HN 6 0.1 6)
 #STAMP_ADD (21.5 26 "5/40 T.Mk./Pfg." "oransje" "no 275" "" "" "")
 STAMP_ADD_IMG (21.5 26 "stamps\275.jpg" "" "" "")
@@ -640,7 +640,7 @@ STAMP_ADD (21.5 26 "400/15 T.Mk./Pfg." "olivenbrun" "no 295" "" "" "")
 
 PAGE_START # { 1916
 
-PAGE_TEXT_CENTRE (HN 11 "1923 Overprinted Stamps")
+PAGE_TEXT_CENTRE (HN 10 "1923 Overprinted Stamps")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (21.5 26 "400/25 T.Mk./Pfg." "olivenbrun" "no 296" "" "" "")
 STAMP_ADD (21.5 26 "400/30 T.Mk./Pfg." "olivenbrun" "no 297" "" "" "")
@@ -655,7 +655,7 @@ STAMP_ADD (21.5 26 "800/400 T.Mk./Mk." "brun" "no 303" "" "" "")
 STAMP_ADD (21.5 26 "800/400 T.Mk./Mk." "grønn" "no 304" "" "" "")
 STAMP_ADD (21.5 26 "800/500 T.Mk./Mk." "grønn" "no 305" "" "" "")
 STAMP_ADD (21.5 26 "800/1000 T.Mk./Mk." "grønn" "no 306" "" "" "")
-PAGE_TEXT_CENTRE (HN 11 "1923 Overprinted Stamps")
+PAGE_TEXT_CENTRE (HN 10 "1923 Overprinted Stamps")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (21.5 26 "2/200 Mi.Mk./Mk." "rødrosa" "no 307" "" "" "")
 STAMP_ADD (21.5 26 "2/200 Mi.Mk./Mk." "rødrosa" "no 307A" "" "Penetrated perf" "")
@@ -668,7 +668,7 @@ STAMP_ADD (21.5 26 "2/5 Mi.Mk./T.Mk." "rødrosa" "no 310" "" "" "")
 STAMP_ADD (21.5 26 "2/5 Mi.Mk./T.Mk." "rødrosa" "no 310A" "" "Penetrated perf" "")
 STAMP_ADD (21.5 26 "2/5 Mi.Mk./T.Mk." "brunrød" "no 310a" "" "" "")
 
-PAGE_TEXT_CENTRE (HN 11 "1923 Overprinted Stamps")
+PAGE_TEXT_CENTRE (HN 10 "1923 Overprinted Stamps")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (21.5 26 "500 T.Mk." "brun" "no 311" "" "" "")
 STAMP_ADD (21.5 26 "1 Mi.Mk." "grønnaktig blå" "no 312" "" "" "")
@@ -686,7 +686,7 @@ STAMP_ADD (21.5 26 "50 Mi.Mk." "mørkegrønn" "no 319" "" "" "")
 # }
 
 PAGE_START # { 1923
-PAGE_TEXT_CENTRE (HN 11 "1923 Overprinted Stamps")
+PAGE_TEXT_CENTRE (HN 10 "1923 Overprinted Stamps")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (21.5 26 "50 Mi.Mk." "mørkegrønn" "no 319A" "" "Penetrated perf" "")
 STAMP_ADD (21.5 26 "100 Mi.Mk." "grå" "no 320" "" "" "")
@@ -707,12 +707,12 @@ STAMP_ADD (21.5 26 "20 Bi.Mk." "blå/brun" "no 327A" "" "Penetrated perf" "")
 STAMP_ADD (21.5 26 "50 Bi.Mk." "blå/mørkeblå" "no 328" "" "" "")
 STAMP_ADD (21.5 26 "50 Bi.Mk." "blå/mørkeblå" "no 328A" "" "Penetrated perf" "")
 
-PAGE_TEXT_CENTRE (HN 11 "1923 No.259 Overprinted")
+PAGE_TEXT_CENTRE (HN 10 "1923 No.259 Overprinted")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (21.5 26 "1/100 Bi.Mk./Mk." "lille" "no 329" "" "" "")
 STAMP_ADD (21.5 26 "1/100 Bi.Mk./Mk." "lys lille" "no 330" "" "" "")
 
-PAGE_TEXT_CENTRE (HN 11 "1923 Billion Overprint")
+PAGE_TEXT_CENTRE (HN 10 "1923 Billion Overprint")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (21.5 26 "5/2 Bi.Mk./Mi.Mk." "lille" "no 330" "" "" "")
 STAMP_ADD (21.5 26 "5/4 Bi.Mk./Mi.Mk." "grønn" "no 331" "" "" "")
@@ -728,7 +728,7 @@ STAMP_ADD (21.5 26 "10/100 Bi.Mk./Mi.Mk." "grå" "no 335" "" "" "")
 
 PAGE_START # { 1923
 
-PAGE_TEXT_CENTRE (HN 11 "1923 Rentpfennig")
+PAGE_TEXT_CENTRE (HN 10 "1923 Rentpfennig")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (21.5 26 "3 Pfg." "brun" "no 336" "" "" "")
 STAMP_ADD (21.5 26 "5 Pfg." "grønn" "no 337" "" "" "")
@@ -737,7 +737,7 @@ STAMP_ADD (21.5 26 "20 Pfg." "blå" "no 339" "" "" "")
 STAMP_ADD (21.5 26 "50 Pfg." "oransje" "no 340" "" "" "")
 STAMP_ADD (21.5 26 "100 Pfg." "lilla" "no 341" "" "" "")
 
-PAGE_TEXT_CENTRE (HN 11 "1924 Airmail")
+PAGE_TEXT_CENTRE (HN 10 "1924 Airmail")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (21.5 26 "5 Pfg." "grønn" "no 342" "" "" "")
 STAMP_ADD (21.5 26 "10 Pfg." "karmin rødrosa" "no 343" "" "" "")
@@ -748,14 +748,14 @@ STAMP_ADD (21.5 26 "100 Pfg." "fiolett" "no 346" "" "" "")
 STAMP_ADD (21.5 26 "200 Pfg." "grønnaktig blå" "no 347" "" "" "")
 STAMP_ADD (21.5 26 "300 Pfg." "grå" "no 348" "" "" "")
 
-PAGE_TEXT_CENTRE (HN 11 "1924 Charity Stamps")
+PAGE_TEXT_CENTRE (HN 10 "1924 Charity Stamps")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (26 36 "5+51 Pfg." "blågrønn" "no 349" "" "" "")
 STAMP_ADD (26 36 "10+30 Pfg." "rød" "no 350" "" "" "")
 STAMP_ADD (26 36 "20+60 Pfg." "blå" "no 351" "" "" "")
 STAMP_ADD (26 36 "50+150 Pfg." "brun" "no 352" "" "" "")
 
-PAGE_TEXT_CENTRE (HN 11 "1924 New National Eagle")
+PAGE_TEXT_CENTRE (HN 10 "1924 New National Eagle")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (21.5 26 "3 Pfg." "brun" "no 353" "" "" "")
 STAMP_ADD (21.5 26 "5 Pfg." "grønn" "no 354" "" "" "")
@@ -770,47 +770,47 @@ STAMP_ADD (21.5 26 "50 Pfg." "oransje" "no 359" "" "" "")
 PAGE_START # { 1924
 PAGE_COLUMN_START
 
-PAGE_TEXT_CENTRE (HN 11 "\n1924 Stephan")
+PAGE_TEXT_CENTRE (HN 10 "\n1924 Stephan")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (21.5 26 "60 Pfg." "rødbrun" "no 360" "" "" "")
 STAMP_ADD (21.5 26 "60 Pfg." "rødbrun" "no 360" "" "Art paper" "")
 STAMP_ADD (21.5 26 "80 Pfg." "blågrå" "no 361" "" "" "")
 PAGE_COLUMN_NEXT
-PAGE_TEXT_CENTRE (HN 11 "1924 The 50th anniversary\nof the Universal Postal Union")
+PAGE_TEXT_CENTRE (HN 10 "1924 The 50th anniversary\nof the Universal Postal Union")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (21.5 26 "10 Pfg." "mørkegrønn" "no 366" "" "" "")
 STAMP_ADD (21.5 26 "20 Pfg." "mørkeblå" "no 367" "" "" "")
 PAGE_COLUMN_STOP
 
 
-PAGE_TEXT_CENTRE (HN 11 "1924 Landscapes")
+PAGE_TEXT_CENTRE (HN 10 "1924 Landscapes")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (36 26 "1 Mk." "grønn" "no 362" "" "" "")
 STAMP_ADD (36 26 "2 Mk." "blå" "no 363" "" "" "")
 STAMP_ADD (36 26 "3 Mk." "rødbrun" "no 364" "" "" "")
 STAMP_ADD (36 26 "5 Mk." "olivenbrun" "no 365" "" "" "")
 
-PAGE_TEXT_CENTRE (HN 11 "1925 Traffic Exhibition")
+PAGE_TEXT_CENTRE (HN 10 "1925 Traffic Exhibition")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (30 25 "5 Pfg." "grønn" "no 368" "" "" "")
 STAMP_ADD (30 25 "10 Pfg." "rød" "no 369" "" "" "")
 PAGE_COLUMN_START
 
-PAGE_TEXT_CENTRE (HN 11 "1925 Traffic Exhibition")
+PAGE_TEXT_CENTRE (HN 10 "1925 Traffic Exhibition")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (21.5 26 "5 Pfg." "grønn" "no 370" "" "" "")
 STAMP_ADD (21.5 26 "10 Pfg." "rød" "no 371" "" "" "")
 STAMP_ADD (21.5 26 "20 Pfg." "blå" "no 372" "" "" "")
 PAGE_COLUMN_NEXT
 
-PAGE_TEXT_CENTRE (HN 11 "1925 Charity Stamps")
+PAGE_TEXT_CENTRE (HN 10 "1925 Charity Stamps")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (21.5 26 "5+5 Pfg." "mangefarget" "no 373" "" "" "")
 STAMP_ADD (21.5 26 "10+10 Pfg." "mangefarget" "no 374" "" "" "")
 STAMP_ADD (21.5 26 "20+20 Pfg." "mangefarget" "no 375" "" "" "")
 PAGE_COLUMN_STOP
 
-PAGE_TEXT_CENTRE (HN 11 "1926 -1927 Airmail")
+PAGE_TEXT_CENTRE (HN 10 "1926 -1927 Airmail")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (21.5 26 "5 Pfg." "grønn" "no 376" "" "" "")
 STAMP_ADD (21.5 26 "10 Pfg." "rød" "no 377" "" "" "")
@@ -826,7 +826,7 @@ STAMP_ADD (21.5 26 "3 Mk." "sort/olivengrønn" "no 383" "" "" "")
 
 PAGE_START # { 1926
 
-PAGE_TEXT_CENTRE (HN 11 "1926 Famous Germans")
+PAGE_TEXT_CENTRE (HN 10 "1926 Famous Germans")
 ROW_START_FS (HN 6 0.1 7)
 STAMP_ADD (21.5 26 "3 Pfg." "brun" "no 384" "" "" "")
 STAMP_HEADING (HN 7 "Wolfgang von Goethe" )
@@ -863,7 +863,7 @@ STAMP_HEADING (HN 7 "Johann Sebastian Bach" )
 STAMP_ADD (21.5 26 "80 Pfg." "mørkebrun" "no 394" "" "" "")
 STAMP_HEADING (HN 7 "Albrecht Dürer" )
 
-PAGE_TEXT_CENTRE (HN 11 "1926 Charity Stamps")
+PAGE_TEXT_CENTRE (HN 10 "1926 Charity Stamps")
 PAGE_TEXT_CENTRE (HN 8 "Stående vannmerke")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (21.5 26 "5+5 Pfg." "mangefarget" "no 395" "" "" "")
@@ -878,7 +878,7 @@ STAMP_ADD (21.5 26 "10+10 Pfg." "mangefarget" "no 396A" "" "" "")
 STAMP_ADD (21.5 26 "25+25 Pfg." "mangefarget" "no 397A" "" "" "")
 STAMP_ADD (21.5 26 "50+50 Pfg." "mangefarget" "no 398A" "" "" "")
 
-PAGE_TEXT_CENTRE (HN 11 "1927 The 80th Anniversary of the Birth of Paul von Hindenburg - Charity Stamps")
+PAGE_TEXT_CENTRE (HN 10 "1927 The 80th Anniversary of the Birth of Paul von Hindenburg - Charity Stamps")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (21.5 26 "5+(7) Pfg." "grønn" "no 399" "" "" "")
 STAMP_ADD (21.5 26 "15+(15) Pfg." "rød" "no 400" "" "" "")
@@ -889,7 +889,7 @@ STAMP_ADD (21.5 26 "50+(50) Pfg." "brun" "no 402" "" "" "")
 
 PAGE_START # { 1927
 
-PAGE_TEXT_CENTRE (HN 11 "1927 International I.A.A. Congress")
+PAGE_TEXT_CENTRE (HN 10 "1927 International I.A.A. Congress")
 PAGE_TEXT_CENTRE (HN 8 "Famous Germans Stamps of 1926 Overprinted \"I.A.A - 10.-15.10. 1927\"")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (21.5 26 "8 Pfg." "mørkegrønn" "no 403" "" "" "")
@@ -901,7 +901,7 @@ STAMP_HEADING (HN 7 "Immanuel Kant" )
 STAMP_ADD (21.5 26 "25 Pfg." "blå" "no 405" "" "" "")
 STAMP_HEADING (HN 7 "Wolfgang von Goethe" )
 
-PAGE_TEXT_CENTRE (HN 11 "1928 Friedrich Ebert")
+PAGE_TEXT_CENTRE (HN 10 "1928 Friedrich Ebert")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (21.5 26 "3 Pfg." "gulbrun" "no 406" "" "" "")
 STAMP_ADD (21.5 26 "8 Pfg." "mørkegrønn" "no 407" "" "" "")
@@ -912,7 +912,7 @@ STAMP_ADD (21.5 26 "30 Pfg." "oliven" "no 410" "" "" "")
 STAMP_ADD (21.5 26 "45 Pfg." "oransje" "no 411" "" "" "")
 STAMP_ADD (21.5 26 "60 Pfg." "rødbrun" "no 412" "" "" "")
 
-PAGE_TEXT_CENTRE (HN 11 "1928 Paul von Hindenburg")
+PAGE_TEXT_CENTRE (HN 10 "1928 Paul von Hindenburg")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (21.5 26 "5 Pfg." "grønn" "no 413" "" "" "")
 STAMP_ADD (21.5 26 "15 Pfg." "karmin" "no 414" "" "" "")
@@ -921,7 +921,7 @@ STAMP_ADD (21.5 26 "40 Pfg." "fiolett" "no 416" "" "" "")
 STAMP_ADD (21.5 26 "50 Pfg." "brun" "no 417" "" "" "")
 STAMP_ADD (21.5 26 "80 Pfg." "mørkebrun" "no 418" "" "" "")
 
-PAGE_TEXT_CENTRE (HN 11 "1928 Airships - Zeppelin")
+PAGE_TEXT_CENTRE (HN 10 "1928 Airships - Zeppelin")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (36 26 "2 RM." "blå" "no 419" "" "" "")
 STAMP_ADD (36 26 "4 RM." "rødbrun" "no 420" "" "" "")
@@ -929,7 +929,7 @@ STAMP_ADD (36 26 "4 RM." "rødbrun" "no 420" "" "" "")
 # }
 
 PAGE_START # { 1928
-PAGE_TEXT_CENTRE (HN 11 "1928 Charity Stamps")
+PAGE_TEXT_CENTRE (HN 10 "1928 Charity Stamps")
 ROW_START_FS (HN 6 0.1 6)
 
 PAGE_TEXT_CENTRE (HN 8 "Stående vannmerke")
@@ -948,7 +948,7 @@ STAMP_ADD (21.5 26 "10+10 Pfg." "mangefarget" "no 423A" "" "" "")
 STAMP_ADD (21.5 26 "25+25 Pfg." "mangefarget" "no 424A" "" "" "")
 STAMP_ADD (21.5 26 "50+50 Pfg." "mangefarget" "no 425A" "" "" "")
 
-PAGE_TEXT_CENTRE (HN 11 "1928 Charity Stamps")
+PAGE_TEXT_CENTRE (HN 10 "1928 Charity Stamps")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (21.5 26 "5+2 Pfg." "mangefarget" "no 426" "" "" "")
 STAMP_ADD (21.5 26 "8+4 Pfg." "mangefarget" "no 427" "" "" "")
@@ -957,26 +957,26 @@ STAMP_ADD (21.5 26 "25+10 Pfg." "mangefarget" "no 429" "" "" "")
 STAMP_ADD (21.5 26 "50+40 Pfg." "mangefarget" "no 430" "" "" "")
 PAGE_COLUMN_START
 
-PAGE_TEXT_CENTRE (HN 11 "1930 Friedrich Ebert - New Colors")
+PAGE_TEXT_CENTRE (HN 10 "1930 Friedrich Ebert - New Colors")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (21.5 26 "10 Pfg." "lilla" "no 431" "" "" "")
 STAMP_ADD (21.5 26 "20 Pfg." "grå" "no 432" "" "" "")
 PAGE_COLUMN_NEXT
 
-PAGE_TEXT_CENTRE (HN 11 "1930 Paul von Hindenburg - New Color")
+PAGE_TEXT_CENTRE (HN 10 "1930 Paul von Hindenburg - New Color")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (21.5 26 "80 Pfg." "guloransje" "no 433" "" "" "")
 PAGE_COLUMN_STOP
-PAGE_TEXT_CENTRE (HN 11 "")
+PAGE_TEXT_CENTRE (HN 10 "")
 PAGE_COLUMN_START
 
-PAGE_TEXT_CENTRE (HN 11 "\n1930 Zeppelin - The South American Route")
+PAGE_TEXT_CENTRE (HN 10 "\n1930 Zeppelin - The South American Route")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (36 26 "2 RM." "marineblå" "no 434" "" "" "")
 STAMP_ADD (36 26 "4 RM." "brunsort" "no 435" "" "" "")
 PAGE_COLUMN_NEXT
 
-PAGE_TEXT_CENTRE (HN 11 "1930 Landscape Stamp of 1924\nwith Currency in Reichsmark")
+PAGE_TEXT_CENTRE (HN 10 "1930 Landscape Stamp of 1924\nwith Currency in Reichsmark")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (36 26 "2 RM." "blå" "no 436" "" "" "")
 PAGE_COLUMN_STOP
@@ -985,10 +985,10 @@ PAGE_COLUMN_STOP
 
 PAGE_START # { 1930
 
-PAGE_TEXT_CENTRE (HN 11 "1930 Stamp Exhibition "IPOSTA" in Berlin - Charity Stamps")
+PAGE_TEXT_CENTRE (HN 10 "1930 Stamp Exhibition "IPOSTA" in Berlin - Charity Stamps")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (104 148 "4 Stamps" "" "no 439-442" "" "" "")
-PAGE_TEXT_CENTRE (HN 11 "")
+PAGE_TEXT_CENTRE (HN 10 "")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (26 21.5 "8+(4) Pfg." "grønn" "no 439" "vm 4" "" "")
 STAMP_ADD (26 21.5 "15+(5) Pfg." "karmin" "no 440" "" "" "")
@@ -999,14 +999,14 @@ STAMP_ADD (26 21.5 "50+(40) Pfg." "brun" "no 442" "" "" "")
 # }
 
 PAGE_START # { 1930
-PAGE_TEXT_CENTRE (HN 11 "1930 No. 407 & 414 Overprinted \"30 Juni 1930\"")
+PAGE_TEXT_CENTRE (HN 10 "1930 No. 407 & 414 Overprinted \"30 Juni 1930\"")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (21.5 26 "8 Pfg." "mørkegrønn" "no 437" "" "" "")
 STAMP_HEADING (HN 7 "Friedrich Ebert" )
 STAMP_ADD (21.5 26 "15 Pfg." "karmin" "no 438" "" "" "")
 STAMP_HEADING (HN 7 "Paul von Hindenburg" )
 
-PAGE_TEXT_CENTRE (HN 11 "1930 As Previous Edition but Different Watermark - Charity Stamps")
+PAGE_TEXT_CENTRE (HN 10 "1930 As Previous Edition but Different Watermark - Charity Stamps")
 ROW_START_FS (HN 6 0.1 6)
 #STAMP_ADD (26 21.5 "8+(4) Pfg." "grønn" "no 443" "VM 2" "" "")
 STAMP_ADD_IMG (26 21.5 "stamps\443.jpg" "vm 2" "" "")
@@ -1015,23 +1015,23 @@ STAMP_ADD (26 21.5 "25+(10) Pfg." "blå" "no 445" "" "" "")
 STAMP_ADD (26 21.5 "50+(40) Pfg." "brun" "no 446" "" "" "")
 PAGE_COLUMN_START
 
-PAGE_TEXT_CENTRE (HN 11 "1931 Paul von Hindenburg")
+PAGE_TEXT_CENTRE (HN 10 "1931 Paul von Hindenburg")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (21.5 26 "4 Pfg." "lyseblå" "no 447" "" "" "")
 PAGE_COLUMN_NEXT
 
-PAGE_TEXT_CENTRE (HN 11 "1931 Zeppelin - New Value")
+PAGE_TEXT_CENTRE (HN 10 "1931 Zeppelin - New Value")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (36 26  "4 Pfg." "lyseblå" "no 447" "" "" "")
 PAGE_COLUMN_STOP
 
-PAGE_TEXT_CENTRE (HN 11 "1931 Graf Zeppelin's North Pole Flying - Overprinted \"POLAR - FAHRT - 1931\"")
+PAGE_TEXT_CENTRE (HN 10 "1931 Graf Zeppelin's North Pole Flying - Overprinted \"POLAR - FAHRT - 1931\"")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (36 26  "1 Mk." "karmin" "no 449" "" "" "")
 STAMP_ADD (36 26  "2 Mk." "marineblå" "no 450" "" "" "")
 STAMP_ADD (36 26  "4 Mk." "brunsort" "no 451" "" "" "")
 
-PAGE_TEXT_CENTRE (HN 11 "1931 Charity Stamps - Buildings")
+PAGE_TEXT_CENTRE (HN 10 "1931 Charity Stamps - Buildings")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (21.5 26  "8+4 Pfg." "grønn" "no 452" "" "" "")
 STAMP_ADD (21.5 26  "15+5 Pfg." "karmin" "no 453" "" "" "")
@@ -1043,19 +1043,19 @@ PAGE_START # { 1930
 
 PAGE_COLUMN_START
 ROW_START_FS (HN 6 0.1 6)
-PAGE_TEXT_CENTRE (HN 11 "1932 Buildings Stamps of 1931 Surcharged")
+PAGE_TEXT_CENTRE (HN 10 "1932 Buildings Stamps of 1931 Surcharged")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (21.5 26  "6/8+4 Pfg." "grønn" "no 456" "" "" "")
 STAMP_ADD (21.5 26  "12/15+3 Pfg." "karmin" "no 457" "" "" "")
 PAGE_COLUMN_NEXT
 
-PAGE_TEXT_CENTRE (HN 11 "1932 New values")
+PAGE_TEXT_CENTRE (HN 10 "1932 New values")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (21.5 26  "6 Pfg." "olivengrønn" "no 458" "" "Friedrich Ebert" "")
 STAMP_ADD (21.5 26  "12 Pfg." "oransje" "no 459" "" "Paul von Hindenburg" "")
 PAGE_COLUMN_STOP
 
-PAGE_TEXT_CENTRE (HN 11 "1932-33 Paul von Hindenburg - New Drawing")
+PAGE_TEXT_CENTRE (HN 10 "1932-33 Paul von Hindenburg - New Drawing")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (21.5 26  "3 Pfg." "brun" "no 472" "" "" "")
 STAMP_ADD (21.5 26  "4 Pfg." "lyseblå" "no 460" "" "" "")
@@ -1085,7 +1085,7 @@ STAMP_ADD (21.5 26  "60 Pfg." "fiolett/sort" "no 483" "" "" "")
 STAMP_ADD (21.5 26  "80 Pfg." "blå/sort" "no 484" "" "" "")
 STAMP_ADD (21.5 26  "80 Pfg." "gul/sort" "no 485" "" "" "")
 
-PAGE_TEXT_CENTRE (HN 11 "1932 Charity Stamps")
+PAGE_TEXT_CENTRE (HN 10 "1932 Charity Stamps")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (26 21.5 "4+2 Pfg." "lyseblå" "no 467" "" "" "")
 STAMP_ADD (26 21.5 "6+4 Pfg." "oliven" "no 468" "" "" "")
@@ -1096,19 +1096,19 @@ STAMP_ADD (26 21.5 "40+40 Pfg." "lilla" "no 471" "" "" "")
 
 PAGE_START # { 1933
 
-PAGE_TEXT_CENTRE (HN 11 "1933 Frederick the Great")
+PAGE_TEXT_CENTRE (HN 10 "1933 Frederick the Great")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (26 21.5 "6 Pfg." "grønn" "no 486" "" "" "")
 STAMP_ADD (26 21.5 "12 Pfg." "karmin" "no 487" "" "" "")
 STAMP_ADD (26 21.5 "25 Pfg." "marineblå" "no 488" "" "" "")
 
-PAGE_TEXT_CENTRE (HN 11 "1933 Zeppelin - The Chicago Route \nOverprinted \"Chicagofahrt - Weltausstellung - 1933\"")
+PAGE_TEXT_CENTRE (HN 10 "1933 Zeppelin - The Chicago Route \nOverprinted \"Chicagofahrt - Weltausstellung - 1933\"")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (36 26 "1 Mk." "karminrød" "no 489" "" "" "")
 STAMP_ADD (36 26 "2 Mk." "marineblå" "no 490" "" "" "")
 STAMP_ADD (36 26 "4 Mk." "brun" "no 491" "" "" "")
 
-PAGE_TEXT_CENTRE (HN 11 "1933 Wagner - Charity Stamps")
+PAGE_TEXT_CENTRE (HN 10 "1933 Wagner - Charity Stamps")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (30 25 "3+2 Pfg." "brun" "no 492" "" "" "")
 STAMP_ADD (30 25 "4+2 Pfg." "mørkeblå" "no 493" "" "" "")
@@ -1123,7 +1123,7 @@ STAMP_ADD (30 25 "20+10 Pfg." "lyseblå" "no 498" "" "" "")
 STAMP_ADD (30 25 "25+15 Pfg." "mørkeblå" "no 499" "" "" "")
 STAMP_ADD (30 25 "40+35 Pfg." "lilla" "no 500" "" "" "")
 
-PAGE_TEXT_CENTRE (HN 11 "1933 Charity Minisheet. No.349-352 Overprinted "1923-1933"")
+PAGE_TEXT_CENTRE (HN 10 "1933 Charity Minisheet. No.349-352 Overprinted "1923-1933"")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (26 36 "5+15 Pfg." "grønn" "no 501" "" "" "")
 STAMP_ADD (26 36 "10+30 Pfg." "rød" "no 502" "" "" "")
@@ -1133,7 +1133,7 @@ STAMP_ADD (26 36 "50+150 Pfg." "brun" "no 504" "" "" "")
 
 PAGE_START # { 1933
 
-PAGE_TEXT_CENTRE (HN 11 "1933 Charity Minisheet. No.349-352 Overprinted "1923-1933"")
+PAGE_TEXT_CENTRE (HN 10 "1933 Charity Minisheet. No.349-352 Overprinted "1923-1933"")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (148 209 "4 stamps" "lilla" "no 501 - 504" "" "" "")
 
@@ -1141,7 +1141,7 @@ STAMP_ADD (148 209 "4 stamps" "lilla" "no 501 - 504" "" "" "")
 
 PAGE_START # { 1934
 
-PAGE_TEXT_CENTRE (HN 11 "1934 Paul von Hindenburg")
+PAGE_TEXT_CENTRE (HN 10 "1934 Paul von Hindenburg")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (21.5 26  "1 Pfg." "sort" "no 505" "" "" "")
 STAMP_ADD (21.5 26  "3 Pfg." "brun" "no 506" "" "" "")
@@ -1163,7 +1163,7 @@ STAMP_ADD (21.5 26  "60 Pfg." "lilla/sort" "no 519" "" "" "")
 STAMP_ADD (21.5 26  "80 Pfg." "blå/sort" "no 520" "" "" "")
 STAMP_ADD (21.5 26  "100 Pfg." "gul/sort" "no 521" "" "" "")
 
-PAGE_TEXT_CENTRE (HN 11 "1934 Airmai")
+PAGE_TEXT_CENTRE (HN 10 "1934 Airmai")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (21.5 26  "5 Pfg." "grønn" "no 522" "" "" "")
 STAMP_ADD (21.5 26  "10 Pfg." "karmin" "no 523" "" "" "")
@@ -1179,7 +1179,7 @@ STAMP_ADD (21.5 26  "100 Pfg." "sort" "no 530" "" "" "")
 STAMP_ADD (30 25  "2 Mk." "grønn/sort" "no 531" "" "Otto Lilienthal" "")
 STAMP_ADD (30 25  "3 Mk." "blå/sort" "no 532" "" "Ferdinand Graf von Zeppelin" "")
 
-PAGE_TEXT_CENTRE (HN 11 "1934 Colonial Anniversaries")
+PAGE_TEXT_CENTRE (HN 10 "1934 Colonial Anniversaries")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (25 31  "3 Pfg." "brun" "no 533" "" "" "")
 STAMP_ADD (25 31  "6 Pfg." "mørkegrønn" "no 534" "" "" "")
@@ -1191,18 +1191,18 @@ STAMP_ADD (25 31  "25 Pfg." "blå" "no 536" "" "" "")
 PAGE_START # { 1934
 
 PAGE_COLUMN_START
-PAGE_TEXT_CENTRE (HN 11 "1934 The Saar Vote")
+PAGE_TEXT_CENTRE (HN 10 "1934 The Saar Vote")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (21.5 26  "6 Pfg." "mørkegrønn" "no 537" "" "" "")
 STAMP_ADD (21.5 26  "12 Pfg." "karmin" "no 538" "" "" "")
 PAGE_COLUMN_NEXT
-PAGE_TEXT_CENTRE (HN 11 "1934 Nürnberger")
+PAGE_TEXT_CENTRE (HN 10 "1934 Nürnberger")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (21.5 26  "6 Pfg." "grønn" "no 539" "" "" "")
 STAMP_ADD (21.5 26  "12 Pfg." "karmin" "no 540" "" "" "")
 PAGE_COLUMN_STOP
 
-PAGE_TEXT_CENTRE (HN 11 "1934 Paul von Hindenburg Memorial Edition")
+PAGE_TEXT_CENTRE (HN 10 "1934 Paul von Hindenburg Memorial Edition")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (21.5 26  "3 Pfg." "brun" "no 541" "" "" "")
 STAMP_ADD (21.5 26  "5 Pfg." "grønn" "no 542" "" "" "")
@@ -1211,12 +1211,12 @@ STAMP_ADD (21.5 26  "8 Pfg." "oransje" "no 544" "" "" "")
 STAMP_ADD (21.5 26  "12 Pfg." "karmin" "no 545" "" "" "")
 STAMP_ADD (21.5 26  "25 Pfg." "blå" "no 546" "" "" "")
 
-PAGE_TEXT_CENTRE (HN 11 "1934 Paul von Hindenburg Memorial Edition")
+PAGE_TEXT_CENTRE (HN 10 "1934 Paul von Hindenburg Memorial Edition")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (21.5 26  "6 Pfg." "grønn" "no 547" "" "" "")
 STAMP_ADD (21.5 26  "12 Pfg." "karmin" "no 548" "" "" "")
 
-PAGE_TEXT_CENTRE (HN 11 "1934 Charity Stamps - Germany at Work")
+PAGE_TEXT_CENTRE (HN 10 "1934 Charity Stamps - Germany at Work")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (25 31  "3+2 Pfg." "brun" "no 549" "" "" "")
 STAMP_ADD (25 31  "4+2 Pfg." "grå" "no 550" "" "" "")
@@ -1233,7 +1233,7 @@ STAMP_ADD (25 31  "40+35 Pfg." "rødlilla" "no 557" "" "" "")
 PAGE_START # { 1934
 
 
-PAGE_TEXT_CENTRE (HN 11 "1935 Saar's Re-annexation")
+PAGE_TEXT_CENTRE (HN 10 "1935 Saar's Re-annexation")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (23 28  "3 Pfg." "brun" "no 558" "" "" "")
 STAMP_ADD (23 28  "6 Pfg." "grønn" "no 559" "" "" "")
@@ -1241,24 +1241,24 @@ STAMP_ADD (23 28  "12 Pfg." "brunrød" "no 560" "" "" "")
 STAMP_ADD (23 28  "25 Pfg." "mørkeblå" "no 561" "" "" "")
 
 PAGE_COLUMN_START
-PAGE_TEXT_CENTRE (HN 11 "1935 Hero Memorial Day")
+PAGE_TEXT_CENTRE (HN 10 "1935 Hero Memorial Day")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (23 28  "6 Pfg." "grønn" "no 562" "" "" "")
 STAMP_ADD (23 28  "12 Pfg." "karmin" "no 563" "" "" "")
 PAGE_COLUMN_NEXT
-PAGE_TEXT_CENTRE (HN 11 "1935 Craftsman Competition")
+PAGE_TEXT_CENTRE (HN 10 "1935 Craftsman Competition")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (23 28  "6 Pfg." "grønn" "no 564" "" "" "")
 STAMP_ADD (23 28  "12 Pfg." "rød" "no 565" "" "" "")
 PAGE_COLUMN_STOP
 
-PAGE_TEXT_CENTRE (HN 11 "1935 Birth Anniversaries")
+PAGE_TEXT_CENTRE (HN 10 "1935 Birth Anniversaries")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (23 28  "6 Pfg." "grønn" "no 566" "" "Heinrich Schütz" "")
 STAMP_ADD (23 28  "12 Pfg." "karmin" "no 567" "" "Johann Sebastian Bach" "")
 STAMP_ADD (23 28  "25 Pfg." "blå" "no 567" "" "George Frideric Handel" "")
 
-PAGE_TEXT_CENTRE (HN 11 "1935 Locomotives - The 100th Anniversary of the German Railroad")
+PAGE_TEXT_CENTRE (HN 10 "1935 Locomotives - The 100th Anniversary of the German Railroad")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (25 30  "6 Pfg." "grønn" "no 573" "" "" "")
 STAMP_ADD (25 30  "12 Pfg." "karminrød" "no 574" "" "" "")
@@ -1266,7 +1266,7 @@ STAMP_ADD (25 30  "25 Pfg." "blå" "no 575" "" "" "")
 STAMP_ADD (25 30  "40 Pfg." "rødlilla" "no 576" "" "" "")
 
 
-PAGE_TEXT_CENTRE (HN 11 "1935 Birth Anniversaries")
+PAGE_TEXT_CENTRE (HN 10 "1935 Birth Anniversaries")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (30 25  "3 Pfg." "rødbrun" "no 569" "" "" "")
 STAMP_ADD (30 25  "6 Pfg." "mørkegrønn" "no 570" "" "" "")
@@ -1278,18 +1278,18 @@ STAMP_ADD (30 25  "25 Pfg." "mørkeblå" "no 572" "" "" "")
 PAGE_START # { 1935
 
 PAGE_COLUMN_START
-PAGE_TEXT_CENTRE (HN 11 "1935 Hitler Jugend - World Meeting")
+PAGE_TEXT_CENTRE (HN 10 "1935 Hitler Jugend - World Meeting")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (28 23  "6 Pfg." "mørkegrønn" "no 577" "" "" "")
 STAMP_ADD (28 23  "15 Pfg." "brunlilla" "no 578" "" "" "")
 PAGE_COLUMN_NEXT
-PAGE_TEXT_CENTRE (HN 11 "1935 Party Rally")
+PAGE_TEXT_CENTRE (HN 10 "1935 Party Rally")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (25 30  "6 Pfg." "mørkegrønn" "no 579" "" "" "")
 STAMP_ADD (25 30  "12 Pfg." "karmin" "no 580" "" "" "")
 PAGE_COLUMN_STOP
 
-PAGE_TEXT_CENTRE (HN 11 "1935 Charity Stamps - Costumes")
+PAGE_TEXT_CENTRE (HN 10 "1935 Charity Stamps - Costumes")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (25 30  "3+2 Pfg." "brun" "no 581" "" "" "")
 STAMP_ADD (25 30  "4+3 Pfg." "blågrå" "no 582" "" "" "")
@@ -1305,20 +1305,20 @@ STAMP_ADD (25 30  "40+35 Pfg." "rødlilla" "no 590" "" "" "")
 
 PAGE_COLUMN_START
 
-PAGE_TEXT_CENTRE (HN 11 "1935 NSDAP Anniversary")
+PAGE_TEXT_CENTRE (HN 10 "1935 NSDAP Anniversary")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (25 30  "3 Pfg." "brun" "no 591" "" "" "")
 STAMP_ADD (25 30  "12 Pfg." "karminrød" "no 592" "" "" "")
 PAGE_COLUMN_NEXT
 
-PAGE_TEXT_CENTRE (HN 11 "1936 The 10th Anniversary of Lufthansa")
+PAGE_TEXT_CENTRE (HN 10 "1936 The 10th Anniversary of Lufthansa")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (25 30  "40 Pfg." "blå" "no 596" "" "" "")
 
 
 PAGE_COLUMN_STOP
 
-PAGE_TEXT_CENTRE (HN 11 "1935 Winter Olympic Games - Garmisch-Partenkirchen 1936, Germany")
+PAGE_TEXT_CENTRE (HN 10 "1935 Winter Olympic Games - Garmisch-Partenkirchen 1936, Germany")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (30 25  "6+4 Pfg." "grønn" "no 593" "" "" "")
 STAMP_ADD (30 25  "12+6 Pfg." "karminrød" "no 594" "" "" "")
@@ -1328,20 +1328,20 @@ STAMP_ADD (30 25  "25+15 Pfg." "marineblå" "no 595" "" "" "")
 PAGE_START # { 1936
 PAGE_COLUMN_START
 
-PAGE_TEXT_CENTRE (HN 11 "1936 The 50th Anniversary of the Automobile")
+PAGE_TEXT_CENTRE (HN 10 "1936 The 50th Anniversary of the Automobile")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (23 28  "6 Pfg." "grønn" "no 597" "" "Gottlieb Daimler" "")
 STAMP_ADD (23 28  "12 Pfg." "karminrød" "no 598" "" "Carl Benz" "")
 PAGE_COLUMN_NEXT
 
-PAGE_TEXT_CENTRE (HN 11 "1936 Airships - LZ 129 Hindenburg")
+PAGE_TEXT_CENTRE (HN 10 "1936 Airships - LZ 129 Hindenburg")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (23 28  "50 Pfg." "blå" "no 599" "" "" "")
 STAMP_ADD (23 28  "75 Pfg." "grønn" "no 600" "" "" "")
 PAGE_COLUMN_STOP
 
 
-PAGE_TEXT_CENTRE (HN 11 "1936 Olympic Games - Berlin, Germany")
+PAGE_TEXT_CENTRE (HN 10 "1936 Olympic Games - Berlin, Germany")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (30 25  "3+2 Pfg." "brun" "no 602" "" "" "")
 STAMP_ADD (30 25  "4+3 Pfg." "grønnaktig blå" "no 603" "" "" "")
@@ -1353,7 +1353,7 @@ STAMP_ADD (30 25  "15+10 Pfg." "lilla" "no 607" "" "" "")
 STAMP_ADD (30 25  "25+15 Pfg." "marineblå" "no 608" "" "" "")
 STAMP_ADD (30 25  "40+35 Pfg." "fiolett" "no 609" "" "" "")
 
-PAGE_TEXT_CENTRE (HN 11 "1936 International Local Government Congress")
+PAGE_TEXT_CENTRE (HN 10 "1936 International Local Government Congress")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (28 23  "3 Pfg." "brun" "no 610" "" "" "")
 STAMP_ADD (28 23  "5 Pfg." "grønn" "no 611" "" "" "")
@@ -1361,18 +1361,18 @@ STAMP_ADD (28 23  "12 Pfg." "karminrød" "no 612" "" "" "")
 STAMP_ADD (28 23  "25 Pfg." "marineblå" "no 613" "" "" "")
 
 PAGE_COLUMN_START
-PAGE_TEXT_CENTRE (HN 11 "1936 Otto von Guericke")
+PAGE_TEXT_CENTRE (HN 10 "1936 Otto von Guericke")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (23 28  "6 Pfg." "grønn" "no 601" "" "" "")
 PAGE_COLUMN_NEXT
-PAGE_TEXT_CENTRE (HN 11 "1936 Recreation and Sparetime Congress")
+PAGE_TEXT_CENTRE (HN 10 "1936 Recreation and Sparetime Congress")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (23 28  "6 Pfg." "grønn" "no 615" "" "" "")
 STAMP_ADD (23 28  "15 Pfg." "rødlilla" "no 616" "" "" "")
 
 PAGE_COLUMN_STOP
 
-PAGE_TEXT_CENTRE (HN 11 "1936 Party Rally")
+PAGE_TEXT_CENTRE (HN 10 "1936 Party Rally")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (23 28  "6 Pfg." "grønn" "no 625" "" "" "")
 STAMP_ADD (23 28  "12 Pfg." "karminrød" "no 626" "" "" "")
@@ -1383,13 +1383,13 @@ STAMP_ADD (23 28  "12 Pfg." "karminrød" "no 626" "" "" "")
 
 PAGE_START # { 1936
 
-PAGE_TEXT_CENTRE (HN 11 "1936 Brown Bonds")
+PAGE_TEXT_CENTRE (HN 10 "1936 Brown Bonds")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (147 105  "42+108 Pfg." "brun" "no 614" "" "" "")
 #ROW_START_FS (HN 6 0.1 6)
 #STAMP_ADD (33 27.5  "42+108 Pfg." "brun" "no 614" "" "" "")
 
-PAGE_TEXT_CENTRE (HN 11 "1936 Charity Stamps - Architecture")
+PAGE_TEXT_CENTRE (HN 10 "1936 Charity Stamps - Architecture")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (30 25  "3+2 Pfg." "brun" "no 627" "" "" "")
 STAMP_ADD (30 25  "4+3 Pfg." "blågrønn" "no 628" "" "" "")
@@ -1406,7 +1406,7 @@ STAMP_ADD (30 25  "40+35 Pfg." "lilla" "no 635" "" "" "")
 # }
 
 PAGE_START # { 1936
-PAGE_TEXT_CENTRE (HN 11 "1936 Olympic Games - Berlin, Germany")
+PAGE_TEXT_CENTRE (HN 10 "1936 Olympic Games - Berlin, Germany")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (147 105  "" "4 stamps" "no 617-620" "" "" "")
 ROW_START_FS (HN 6 0.1 6)
@@ -1415,17 +1415,17 @@ STAMP_ADD (147 105  "" "4 stamps" "no 621-624" "" "" "")
 
 PAGE_START # { 1937
 
-PAGE_TEXT_CENTRE (HN 11 "1937 Air Defence")
+PAGE_TEXT_CENTRE (HN 10 "1937 Air Defence")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (23 28  "3 Pfg." "brun" "no 636" "" "" "")
 STAMP_ADD (23 28  "6 Pfg." "grønn" "no 637" "" "" "")
 STAMP_ADD (23 28  "12 Pfg." "grønn" "no 638" "" "" "")
 
-PAGE_TEXT_CENTRE (HN 11 "1937 Brown Bonds - No. 614 Overprinted \"1 August 1937 München Riem\"")
+PAGE_TEXT_CENTRE (HN 10 "1937 Brown Bonds - No. 614 Overprinted \"1 August 1937 München Riem\"")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (147 105  "42+108 Pfg." "brun" "no 642" "" "" "")
 
-PAGE_TEXT_CENTRE (HN 11 "1937 Charity Stamps - Ships")
+PAGE_TEXT_CENTRE (HN 10 "1937 Charity Stamps - Ships")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (30 25  "3+2 Pfg." "brun" "no 644" "" "" "")
 STAMP_ADD (30 25  "4+3 Pfg." "gråsort" "no 645" "" "" "")
@@ -1441,31 +1441,31 @@ STAMP_ADD (30 25  "40+35 Pfg." "brunlilla" "no 652" "" "" "")
 # }
 
 PAGE_START # { 1937
-PAGE_TEXT_CENTRE (HN 11 "1937 Hitler")
+PAGE_TEXT_CENTRE (HN 10 "1937 Hitler")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (147 105  "6 Pfg." "mørkegrønn" "no 639" "" "" "")
-PAGE_TEXT_CENTRE (HN 11 "1937 Hitler")
+PAGE_TEXT_CENTRE (HN 10 "1937 Hitler")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (147 105  "6 Pfg." "mørkegrønn" "no 640" "" "" "")
 # }
 
 PAGE_START # { 1937
-PAGE_TEXT_CENTRE (HN 11 "1937 Hitler - Inscription \"25 Rpf - einschliesslich - kultuespende\"")
+PAGE_TEXT_CENTRE (HN 10 "1937 Hitler - Inscription \"25 Rpf - einschliesslich - kultuespende\"")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (147 105  "6 Pfg." "mørkegrønn" "no 631" "" "" "")
-PAGE_TEXT_CENTRE (HN 11 "1937 Hitler - Party Rally - Overprinted \"Reichparteitag Nürnberg 1937\"")
+PAGE_TEXT_CENTRE (HN 10 "1937 Hitler - Party Rally - Overprinted \"Reichparteitag Nürnberg 1937\"")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (147 105  "6 Pfg." "mørkegrønn" "no 643" "" "" "")
 # }
 
 PAGE_START # { 1938
 PAGE_COLUMN_START
-PAGE_TEXT_CENTRE (HN 11 "1938 The 5th Government Anniversary")
+PAGE_TEXT_CENTRE (HN 10 "1938 The 5th Government Anniversary")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (25 30  "6+4 Pfg." "grønn" "no 653" "" "" "")
 STAMP_ADD (25 30  "12+8 Pfg." "karminrød" "no 654" "" "" "")
 PAGE_COLUMN_NEXT
-PAGE_TEXT_CENTRE (HN 11 "1938 Austria's Annexation")
+PAGE_TEXT_CENTRE (HN 10 "1938 Austria's Annexation")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (23.5 28  "6 Pfg." "grønn" "no 653" "" "" "")
 STAMP_ADD (21.5 26  "6 Pfg." "grønn" "no 654" "" "" "")
@@ -1475,18 +1475,18 @@ ROW_START_FS (HN 6 0.0 0)
 
 PAGE_COLUMN_START
 
-PAGE_TEXT_CENTRE (HN 11 "1938 The 49th Anniversary\nof the Birth of Adolf Hitler")
+PAGE_TEXT_CENTRE (HN 10 "1938 The 49th Anniversary\nof the Birth of Adolf Hitler")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (27.5 33  "12+38 Pfg." "karminrød" "no 656" "" "" "")
 PAGE_COLUMN_NEXT
 
-PAGE_TEXT_CENTRE (HN 11 "\n1938 The 10th Party Rally")
+PAGE_TEXT_CENTRE (HN 10 "\n1938 The 10th Party Rally")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (27.5 33  "6+19 Pfg." "mørkegrønn" "no 664" "" "" "")
 PAGE_COLUMN_STOP
 
 
-PAGE_TEXT_CENTRE (HN 11 "1938 Breslau Athletic Competition")
+PAGE_TEXT_CENTRE (HN 10 "1938 Breslau Athletic Competition")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (23 27.5  "3 Pfg." "brun" "no 657" "" "" "")
 STAMP_ADD (23 27.5  "6 Pfg." "grønn" "no 658" "" "" "")
@@ -1494,26 +1494,26 @@ STAMP_ADD (23 27.5  "12 Pfg." "karminrød" "no 659" "" "" "")
 STAMP_ADD (23 27.5  "15 Pfg." "brunrød" "no 660" "" "" "")
 PAGE_COLUMN_START
 
-PAGE_TEXT_CENTRE (HN 11 "1938 Graf von Zeppelin")
+PAGE_TEXT_CENTRE (HN 10 "1938 Graf von Zeppelin")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (30 25  "25 Pfg." "blå" "no 661" "" "" "")
 STAMP_ADD (30 25  "50 Pfg." "grønn" "no 662" "" "" "")
 PAGE_COLUMN_NEXT
 
-PAGE_TEXT_CENTRE (HN 11 "1938 Brown Bonds")
+PAGE_TEXT_CENTRE (HN 10 "1938 Brown Bonds")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (33 27.5  "42+108 Pfg." "brun" "no 666" "" "" "")
 PAGE_COLUMN_STOP
 ROW_START_FS (HN 6 0.0 0)
 PAGE_COLUMN_START
 
-PAGE_TEXT_CENTRE (HN 11 "1938 Gauteater Saarpfalz")
+PAGE_TEXT_CENTRE (HN 10 "1938 Gauteater Saarpfalz")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (28 23  "6+4 Pfg." "grønn" "no 665" "" "" "")
 STAMP_ADD (28 23  "12+8 Pfg." "karminrød" "no 666" "" "" "")
 PAGE_COLUMN_NEXT
 
-PAGE_TEXT_CENTRE (HN 11 "1938 Gauteater Saarpfalz")
+PAGE_TEXT_CENTRE (HN 10 "1938 Gauteater Saarpfalz")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (28 23  "6+4 Pfg." "mørkegrønn" "no 676" "" "" "")
 STAMP_ADD (28 23  "12+8 Pfg." "karminrød" "no 677" "" "" "")
@@ -1522,7 +1522,7 @@ PAGE_COLUMN_STOP
 # }
 
 PAGE_START # { 1938
-PAGE_TEXT_CENTRE (HN 11 "1938 Charity Stamps")
+PAGE_TEXT_CENTRE (HN 10 "1938 Charity Stamps")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (27.5 33  "3+2 Pfg." "brun" "no 667" "" "" "")
 STAMP_ADD (27.5 33  "4+3 Pfg." "grå" "no 668" "" "" "")
@@ -1535,19 +1535,19 @@ STAMP_ADD (27.5 33  "15+10 Pfg." "brunlilla" "no 673" "" "" "")
 STAMP_ADD (27.5 33  "25+15 Pfg." "mørkeblå" "no 674" "" "" "")
 STAMP_ADD (27.5 33  "40+35 Pfg." "lilla rødrosa" "no 675" "" "" "")
 
-PAGE_TEXT_CENTRE (HN 11 "1939 Automobile Exhibition in Berlin")
+PAGE_TEXT_CENTRE (HN 10 "1939 Automobile Exhibition in Berlin")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (33 27.5  "6+4 Pfg." "grønn" "no 678" "" "" "")
 STAMP_ADD (33 27.5  "12+8 Pfg." "karminrød" "no 679" "" "" "")
 STAMP_ADD (33 27.5  "25+10 Pfg." "blå" "no 680" "" "" "")
 
 PAGE_COLUMN_START
-PAGE_TEXT_CENTRE (HN 11 "1939 Craftsman Competition")
+PAGE_TEXT_CENTRE (HN 10 "1939 Craftsman Competition")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (23 28  "6 Pfg." "grønn" "no 681" "" "" "")
 STAMP_ADD (23 28  "12 Pfg." "karminrød" "no 682" "" "" "")
 PAGE_COLUMN_NEXT
-PAGE_TEXT_CENTRE (HN 11 "1939 Garden Exhibition in Stuttgart")
+PAGE_TEXT_CENTRE (HN 10 "1939 Garden Exhibition in Stuttgart")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (27.5 33  "6+4 Pfg." "grønn" "no 684" "" "" "")
 STAMP_ADD (27.5 33  "15+5 Pfg." "lilla rødrosa" "no 685" "" "" "")
@@ -1556,21 +1556,21 @@ PAGE_COLUMN_STOP
 
 #ROW_START_FS (HN 6 0.1 0)
 #PAGE_COLUMN_START
-#PAGE_TEXT_CENTRE (HN 11 "1939 The 50th Anniversary of the Birth of Adolf Hitler")
+#PAGE_TEXT_CENTRE (HN 10 "1939 The 50th Anniversary of the Birth of Adolf Hitler")
 ROW_START_FS (HN 6 0.1 20)
 STAMP_ADD (27.5 33  "12+38 Pfg." "karminrød" "no 683" "" "" "")
-STAMP_HEADING (HN 11 "1939 The 50th Anniversary\nof the Birth of Adolf Hitler")
+STAMP_HEADING (HN 10 "1939 The 50th Anniversary\nof the Birth of Adolf Hitler")
 
 #PAGE_COLUMN_NEXT
 
 
-#PAGE_TEXT_CENTRE (HN 11 "1939 May 1st")
+#PAGE_TEXT_CENTRE (HN 10 "1939 May 1st")
 #ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (30 39  "6+9 Pfg." "mørkebrun" "no 686" "" "" "")
-STAMP_HEADING (HN 11 "\n1939 May 1st")
+STAMP_HEADING (HN 10 "\n1939 May 1st")
 
 STAMP_ADD (30 39  "6+9 Pfg." "mørkebrun" "no 693" "" "" "")
-STAMP_HEADING (HN 11 "1939 Party Rally Inscription\n\"REICHS-PARTEITAG 1939\"")
+STAMP_HEADING (HN 10 "1939 Party Rally Inscription\n\"REICHS-PARTEITAG 1939\"")
 
 
 
@@ -1579,7 +1579,7 @@ STAMP_HEADING (HN 11 "1939 Party Rally Inscription\n\"REICHS-PARTEITAG 1939\"")
 # }
 
 PAGE_START # { 1939
-PAGE_TEXT_CENTRE (HN 11 "1939 No. 678-680 Overprinted \"Nürburgring-Rennen\"")
+PAGE_TEXT_CENTRE (HN 10 "1939 No. 678-680 Overprinted \"Nürburgring-Rennen\"")
 ROW_START_FS (HN 6 0.1 6)
 STAMP_ADD (33 27.5  "6+4 Pfg." "grønn" "no 687" "" "" "")
 STAMP_ADD (33 27.5  "12+8 Pfg." "karminrød" "no 688" "" "" "")
@@ -1587,15 +1587,15 @@ STAMP_ADD (33 27.5  "25+10 Pfg." "blå" "no 689" "" "" "")
 
 ROW_START_FS (HN 6 0.1 24)
 STAMP_ADD (33 27.5  "25+50 Pfg." "marineblå" "no 690" "" "" "")
-STAMP_HEADING (HN 11 "1939 The 70th Anniversary\nof the German Derby")
+STAMP_HEADING (HN 10 "1939 The 70th Anniversary\nof the German Derby")
 
 STAMP_ADD (33 27.5  "42+108 Pfg." "mørkebrun" "no 691" "" "" "")
-STAMP_HEADING (HN 11 "\n1939 Brown Bonds")
+STAMP_HEADING (HN 10 "\n1939 Brown Bonds")
 
 STAMP_ADD (27.5 33  "6+19 Pfg." "mørkegrønn" "no 692" "" "" "")
-STAMP_HEADING (HN 11 "\n1939 Germen Art Day")
+STAMP_HEADING (HN 10 "\n1939 Germen Art Day")
 
-PAGE_TEXT_CENTRE (HN 11 "1939 Charity Stamps - Local Motifs")
+PAGE_TEXT_CENTRE (HN 10 "1939 Charity Stamps - Local Motifs")
 ROW_START_FS (HN 6 0.1 4)
 STAMP_ADD (39 30  "3+2 Pfg." "brun" "no 694" "" "" "")
 STAMP_ADD (39 30  "4+3 Pfg." "gråblå" "no 695" "" "" "")
